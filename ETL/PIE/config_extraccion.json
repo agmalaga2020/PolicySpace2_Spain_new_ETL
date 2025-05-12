@@ -1,0 +1,220 @@
+{
+
+
+  "directorio_entrada": "./PIE/data/raw/finanzas/liquidaciones/por_municipios_regimen_general",
+  "directorio_salida": "./PIE/data/raw/finanzas/liquidaciones/preprocess",
+  "mapeo": [
+    {
+      "archivo": "liquidacion_2003.xlsx",
+      "a\u00f1o": 2003,
+      "hoja_variables": NaN,
+      "hoja_garantia": NaN,
+      "hoja_liquidacion": NaN,
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": "No tiene hoja de variables identificable"
+    },
+    {
+      "archivo": "liquidacion_2004.xlsx",
+      "a\u00f1o": 2004,
+      "hoja_variables": NaN,
+      "hoja_garantia": NaN,
+      "hoja_liquidacion": "Municipios - Mod.variab.C\u00e1lculo",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": "Usar hoja de liquidaci\u00f3n en lugar de variables"
+    },
+    {
+      "archivo": "liquidacion_2005.xlsx",
+      "a\u00f1o": 2005,
+      "hoja_variables": "C\u00e1lculo Participaci\u00f3n Total",
+      "hoja_garantia": NaN,
+      "hoja_liquidacion": "Liquidaci\u00f3n",
+      "fila_encabezado": 2,
+      "columnas_esperadas": 10,
+      "notas": "Encabezado en fila 2, estructura diferente"
+    },
+    {
+      "archivo": "liquidacion_2006.xlsx",
+      "a\u00f1o": 2006,
+      "hoja_variables": "Participaci\u00f3n Ponderada + IAE",
+      "hoja_garantia": NaN,
+      "hoja_liquidacion": "Liquidaci\u00f3n 2006",
+      "fila_encabezado": 1,
+      "columnas_esperadas": 10,
+      "notas": "Estructura poco clara, posible encabezado en fila 1"
+    },
+    {
+      "archivo": "liquidacion_2007.xlsx",
+      "a\u00f1o": 2007,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2008.xlsx",
+      "a\u00f1o": 2008,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2009.xlsx",
+      "a\u00f1o": 2009,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2010.xlsx",
+      "a\u00f1o": 2010,
+      "hoja_variables": "Part. Variables CON La Canonja",
+      "hoja_garantia": "Garant\u00eda CON La Canonja",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n Ponderada",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": "Tiene hojas espec\u00edficas para municipios especiales (2010)"
+    },
+    {
+      "archivo": "liquidacion_2011.xlsx",
+      "a\u00f1o": 2011,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2012.xlsx",
+      "a\u00f1o": 2012,
+      "hoja_variables": "Part. Variables CON Guadiana",
+      "hoja_garantia": "Garant\u00eda CON Guadiana",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n Ponderada",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": "Tiene hojas espec\u00edficas para municipios especiales (2012)"
+    },
+    {
+      "archivo": "liquidacion_2013.xlsx",
+      "a\u00f1o": 2013,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2014.xlsx",
+      "a\u00f1o": 2014,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2015.xlsx",
+      "a\u00f1o": 2015,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2016.xlsx",
+      "a\u00f1o": 2016,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2017.xlsx",
+      "a\u00f1o": 2017,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2018.xlsx",
+      "a\u00f1o": 2018,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2019.xlsx",
+      "a\u00f1o": 2019,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2020.xlsx",
+      "a\u00f1o": 2020,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2021.xlsx",
+      "a\u00f1o": 2021,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    },
+    {
+      "archivo": "liquidacion_2022.xlsx",
+      "a\u00f1o": 2022,
+      "hoja_variables": "Participaci\u00f3n por Variables",
+      "hoja_garantia": "Garant\u00eda",
+      "hoja_liquidacion": "Total Liquidaci\u00f3n",
+      "fila_encabezado": 0,
+      "columnas_esperadas": 10,
+      "notas": ""
+    }
+  ],
+  "variables_clave": [
+    "codigo_provincia",
+    "codigo_municipio",
+    "nombre_municipio",
+    "poblacion",
+    "esfuerzo_fiscal",
+    "inverso_capacidad_tributaria",
+    "participacion_poblacion",
+    "participacion_esfuerzo_fiscal",
+    "participacion_inverso_capacidad",
+    "total_participacion_variables"
+  ]
+}

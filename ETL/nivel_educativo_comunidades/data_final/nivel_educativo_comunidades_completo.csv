@@ -1,0 +1,1597 @@
+ccaa_code,ccaa_name,año,nivel_formacion,media_total,nivel_formacion_code
+01,Andalucía,2014,Analfabetos,3.775,1.0
+01,Andalucía,2014,Educación primaria,14.625,3.0
+01,Andalucía,2014,Educación superior,21.775,7.0
+01,Andalucía,2014,Estudios primarios incompletos,9.85,2.0
+01,Andalucía,2014,Primera etapa de Educación Secundaria y similar,31.125,
+01,Andalucía,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.25,6.0
+01,Andalucía,2014,"Segunda etapa de educación secundaria, con orientación general",11.65,5.0
+01,Andalucía,2015,Analfabetos,3.525,1.0
+01,Andalucía,2015,Educación primaria,13.9,3.0
+01,Andalucía,2015,Educación superior,22.45,7.0
+01,Andalucía,2015,Estudios primarios incompletos,9.925,2.0
+01,Andalucía,2015,Primera etapa de Educación Secundaria y similar,30.875,
+01,Andalucía,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.3,6.0
+01,Andalucía,2015,"Segunda etapa de educación secundaria, con orientación general",12.05,5.0
+01,Andalucía,2016,Analfabetos,3.2,1.0
+01,Andalucía,2016,Educación primaria,13.25,3.0
+01,Andalucía,2016,Educación superior,23.175,7.0
+01,Andalucía,2016,Estudios primarios incompletos,9.4,2.0
+01,Andalucía,2016,Primera etapa de Educación Secundaria y similar,31.575,
+01,Andalucía,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.525,6.0
+01,Andalucía,2016,"Segunda etapa de educación secundaria, con orientación general",11.875,5.0
+01,Andalucía,2017,Analfabetos,3.1,1.0
+01,Andalucía,2017,Educación primaria,13.2,3.0
+01,Andalucía,2017,Educación superior,23.55,7.0
+01,Andalucía,2017,Estudios primarios incompletos,8.825,2.0
+01,Andalucía,2017,Primera etapa de Educación Secundaria y similar,32.025,
+01,Andalucía,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.275,6.0
+01,Andalucía,2017,"Segunda etapa de educación secundaria, con orientación general",12.025,5.0
+01,Andalucía,2018,Analfabetos,2.775,1.0
+01,Andalucía,2018,Educación primaria,12.825,3.0
+01,Andalucía,2018,Educación superior,24.175,7.0
+01,Andalucía,2018,Estudios primarios incompletos,8.925,2.0
+01,Andalucía,2018,Primera etapa de Educación Secundaria y similar,31.1,
+01,Andalucía,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.8,6.0
+01,Andalucía,2018,"Segunda etapa de educación secundaria, con orientación general",12.375,5.0
+01,Andalucía,2019,Analfabetos,2.575,1.0
+01,Andalucía,2019,Educación primaria,12.525,3.0
+01,Andalucía,2019,Educación superior,24.7,7.0
+01,Andalucía,2019,Estudios primarios incompletos,8.45,2.0
+01,Andalucía,2019,Primera etapa de Educación Secundaria y similar,31.25,
+01,Andalucía,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.15,6.0
+01,Andalucía,2019,"Segunda etapa de educación secundaria, con orientación general",12.425,5.0
+01,Andalucía,2020,Analfabetos,2.525,1.0
+01,Andalucía,2020,Educación primaria,12.35,3.0
+01,Andalucía,2020,Educación superior,25.975,7.0
+01,Andalucía,2020,Estudios primarios incompletos,7.6,2.0
+01,Andalucía,2020,Primera etapa de Educación Secundaria y similar,31.15,
+01,Andalucía,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.1,6.0
+01,Andalucía,2020,"Segunda etapa de educación secundaria, con orientación general",12.274999999999999,5.0
+01,Andalucía,2021,Analfabetos,2.45,1.0
+01,Andalucía,2021,Educación primaria,11.175,3.0
+01,Andalucía,2021,Educación superior,27.45,7.0
+01,Andalucía,2021,Estudios primarios incompletos,6.9,2.0
+01,Andalucía,2021,Primera etapa de Educación Secundaria y similar,31.275,
+01,Andalucía,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.8,6.0
+01,Andalucía,2021,"Segunda etapa de educación secundaria, con orientación general",11.95,5.0
+01,Andalucía,2022,Analfabetos,2.375,1.0
+01,Andalucía,2022,Educación primaria,10.8,3.0
+01,Andalucía,2022,Educación superior,28.025,7.0
+01,Andalucía,2022,Estudios primarios incompletos,6.525,2.0
+01,Andalucía,2022,Primera etapa de Educación Secundaria y similar,30.925,
+01,Andalucía,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.625,6.0
+01,Andalucía,2022,"Segunda etapa de educación secundaria, con orientación general",12.725,5.0
+01,Andalucía,2023,Analfabetos,2.1,1.0
+01,Andalucía,2023,Educación primaria,10.575,3.0
+01,Andalucía,2023,Educación superior,28.825,7.0
+01,Andalucía,2023,Estudios primarios incompletos,6.55,2.0
+01,Andalucía,2023,Primera etapa de Educación Secundaria y similar,30.5,
+01,Andalucía,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.4,6.0
+01,Andalucía,2023,"Segunda etapa de educación secundaria, con orientación general",13.05,5.0
+01,Andalucía,2024,Analfabetos,1.925,1.0
+01,Andalucía,2024,Educación primaria,10.4,3.0
+01,Andalucía,2024,Educación superior,28.725,7.0
+01,Andalucía,2024,Estudios primarios incompletos,6.275,2.0
+01,Andalucía,2024,Primera etapa de Educación Secundaria y similar,30.85,
+01,Andalucía,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.75,6.0
+01,Andalucía,2024,"Segunda etapa de educación secundaria, con orientación general",13.075,5.0
+01,Andalucía,2025,Analfabetos,1.9,1.0
+01,Andalucía,2025,Educación primaria,10.4,3.0
+01,Andalucía,2025,Educación superior,28.6,7.0
+01,Andalucía,2025,Estudios primarios incompletos,6.2,2.0
+01,Andalucía,2025,Primera etapa de Educación Secundaria y similar,31.3,
+01,Andalucía,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.7,6.0
+01,Andalucía,2025,"Segunda etapa de educación secundaria, con orientación general",12.9,5.0
+02,Aragón,2014,Analfabetos,0.825,1.0
+02,Aragón,2014,Educación primaria,20.525,3.0
+02,Aragón,2014,Educación superior,27.5,7.0
+02,Aragón,2014,Estudios primarios incompletos,5.55,2.0
+02,Aragón,2014,Primera etapa de Educación Secundaria y similar,23.775000000000002,
+02,Aragón,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.65,6.0
+02,Aragón,2014,"Segunda etapa de educación secundaria, con orientación general",13.2,5.0
+02,Aragón,2015,Analfabetos,0.9,1.0
+02,Aragón,2015,Educación primaria,18.725,3.0
+02,Aragón,2015,Educación superior,27.475,7.0
+02,Aragón,2015,Estudios primarios incompletos,5.275,2.0
+02,Aragón,2015,Primera etapa de Educación Secundaria y similar,25.55,
+02,Aragón,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.675,6.0
+02,Aragón,2015,"Segunda etapa de educación secundaria, con orientación general",13.4,5.0
+02,Aragón,2016,Analfabetos,0.775,1.0
+02,Aragón,2016,Educación primaria,16.7,3.0
+02,Aragón,2016,Educación superior,28.25,7.0
+02,Aragón,2016,Estudios primarios incompletos,4.625,2.0
+02,Aragón,2016,Primera etapa de Educación Secundaria y similar,25.75,
+02,Aragón,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.425,6.0
+02,Aragón,2016,"Segunda etapa de educación secundaria, con orientación general",14.5,5.0
+02,Aragón,2017,Analfabetos,0.8,1.0
+02,Aragón,2017,Educación primaria,16.625,3.0
+02,Aragón,2017,Educación superior,28.2,7.0
+02,Aragón,2017,Estudios primarios incompletos,3.65,2.0
+02,Aragón,2017,Primera etapa de Educación Secundaria y similar,26.925,
+02,Aragón,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.9,6.0
+02,Aragón,2017,"Segunda etapa de educación secundaria, con orientación general",13.925,5.0
+02,Aragón,2018,Analfabetos,0.725,1.0
+02,Aragón,2018,Educación primaria,16.45,3.0
+02,Aragón,2018,Educación superior,29.35,7.0
+02,Aragón,2018,Estudios primarios incompletos,3.5999999999999996,2.0
+02,Aragón,2018,Primera etapa de Educación Secundaria y similar,26.9,
+02,Aragón,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.8,6.0
+02,Aragón,2018,"Segunda etapa de educación secundaria, con orientación general",13.2,5.0
+02,Aragón,2019,Analfabetos,0.7,1.0
+02,Aragón,2019,Educación primaria,15.55,3.0
+02,Aragón,2019,Educación superior,30.425,7.0
+02,Aragón,2019,Estudios primarios incompletos,3.125,2.0
+02,Aragón,2019,Primera etapa de Educación Secundaria y similar,26.575,
+02,Aragón,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.1,6.0
+02,Aragón,2019,"Segunda etapa de educación secundaria, con orientación general",13.55,5.0
+02,Aragón,2020,Analfabetos,0.725,1.0
+02,Aragón,2020,Educación primaria,15.325,3.0
+02,Aragón,2020,Educación superior,30.975,7.0
+02,Aragón,2020,Estudios primarios incompletos,2.75,2.0
+02,Aragón,2020,Primera etapa de Educación Secundaria y similar,25.0,
+02,Aragón,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.725,6.0
+02,Aragón,2020,"Segunda etapa de educación secundaria, con orientación general",14.45,5.0
+02,Aragón,2021,Analfabetos,0.775,1.0
+02,Aragón,2021,Educación primaria,13.55,3.0
+02,Aragón,2021,Educación superior,31.475,7.0
+02,Aragón,2021,Estudios primarios incompletos,2.65,2.0
+02,Aragón,2021,Primera etapa de Educación Secundaria y similar,25.725,
+02,Aragón,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),11.15,6.0
+02,Aragón,2021,"Segunda etapa de educación secundaria, con orientación general",14.65,5.0
+02,Aragón,2022,Analfabetos,0.95,1.0
+02,Aragón,2022,Educación primaria,13.775,3.0
+02,Aragón,2022,Educación superior,32.525,7.0
+02,Aragón,2022,Estudios primarios incompletos,2.625,2.0
+02,Aragón,2022,Primera etapa de Educación Secundaria y similar,27.575,
+02,Aragón,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.975000000000001,6.0
+02,Aragón,2022,"Segunda etapa de educación secundaria, con orientación general",12.575,5.0
+02,Aragón,2023,Analfabetos,0.75,1.0
+02,Aragón,2023,Educación primaria,12.625,3.0
+02,Aragón,2023,Educación superior,32.975,7.0
+02,Aragón,2023,Estudios primarios incompletos,2.8,2.0
+02,Aragón,2023,Primera etapa de Educación Secundaria y similar,28.65,
+02,Aragón,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.25,6.0
+02,Aragón,2023,"Segunda etapa de educación secundaria, con orientación general",12.0,5.0
+02,Aragón,2024,Analfabetos,0.85,1.0
+02,Aragón,2024,Educación primaria,12.0,3.0
+02,Aragón,2024,Educación superior,31.925,7.0
+02,Aragón,2024,Estudios primarios incompletos,2.7,2.0
+02,Aragón,2024,Primera etapa de Educación Secundaria y similar,29.55,
+02,Aragón,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.45,6.0
+02,Aragón,2024,"Segunda etapa de educación secundaria, con orientación general",12.55,5.0
+02,Aragón,2025,Analfabetos,1.0,1.0
+02,Aragón,2025,Educación primaria,12.1,3.0
+02,Aragón,2025,Educación superior,32.5,7.0
+02,Aragón,2025,Estudios primarios incompletos,2.2,2.0
+02,Aragón,2025,Primera etapa de Educación Secundaria y similar,29.1,
+02,Aragón,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.6,6.0
+02,Aragón,2025,"Segunda etapa de educación secundaria, con orientación general",13.5,5.0
+03,"Asturias, Principado de",2014,Analfabetos,0.6499999999999999,1.0
+03,"Asturias, Principado de",2014,Educación primaria,23.0,3.0
+03,"Asturias, Principado de",2014,Educación superior,29.575,7.0
+03,"Asturias, Principado de",2014,Estudios primarios incompletos,4.875,2.0
+03,"Asturias, Principado de",2014,Primera etapa de Educación Secundaria y similar,22.575,
+03,"Asturias, Principado de",2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.05,6.0
+03,"Asturias, Principado de",2014,"Segunda etapa de educación secundaria, con orientación general",12.275,5.0
+03,"Asturias, Principado de",2015,Analfabetos,0.825,1.0
+03,"Asturias, Principado de",2015,Educación primaria,21.95,3.0
+03,"Asturias, Principado de",2015,Educación superior,30.4,7.0
+03,"Asturias, Principado de",2015,Estudios primarios incompletos,4.7,2.0
+03,"Asturias, Principado de",2015,Primera etapa de Educación Secundaria y similar,21.95,
+03,"Asturias, Principado de",2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.15,6.0
+03,"Asturias, Principado de",2015,"Segunda etapa de educación secundaria, con orientación general",13.05,5.0
+03,"Asturias, Principado de",2016,Analfabetos,0.6,1.0
+03,"Asturias, Principado de",2016,Educación primaria,22.8,3.0
+03,"Asturias, Principado de",2016,Educación superior,31.2,7.0
+03,"Asturias, Principado de",2016,Estudios primarios incompletos,3.625,2.0
+03,"Asturias, Principado de",2016,Primera etapa de Educación Secundaria y similar,21.625,
+03,"Asturias, Principado de",2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.275,6.0
+03,"Asturias, Principado de",2016,"Segunda etapa de educación secundaria, con orientación general",12.925,5.0
+03,"Asturias, Principado de",2017,Analfabetos,0.75,1.0
+03,"Asturias, Principado de",2017,Educación primaria,20.425,3.0
+03,"Asturias, Principado de",2017,Educación superior,32.075,7.0
+03,"Asturias, Principado de",2017,Estudios primarios incompletos,2.75,2.0
+03,"Asturias, Principado de",2017,Primera etapa de Educación Secundaria y similar,23.425,
+03,"Asturias, Principado de",2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.45,6.0
+03,"Asturias, Principado de",2017,"Segunda etapa de educación secundaria, con orientación general",13.1,5.0
+03,"Asturias, Principado de",2018,Analfabetos,0.675,1.0
+03,"Asturias, Principado de",2018,Educación primaria,18.35,3.0
+03,"Asturias, Principado de",2018,Educación superior,32.45,7.0
+03,"Asturias, Principado de",2018,Estudios primarios incompletos,3.175,2.0
+03,"Asturias, Principado de",2018,Primera etapa de Educación Secundaria y similar,24.15,
+03,"Asturias, Principado de",2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.85,6.0
+03,"Asturias, Principado de",2018,"Segunda etapa de educación secundaria, con orientación general",13.375,5.0
+03,"Asturias, Principado de",2019,Analfabetos,0.5,1.0
+03,"Asturias, Principado de",2019,Educación primaria,15.1,3.0
+03,"Asturias, Principado de",2019,Educación superior,32.5,7.0
+03,"Asturias, Principado de",2019,Estudios primarios incompletos,3.05,2.0
+03,"Asturias, Principado de",2019,Primera etapa de Educación Secundaria y similar,27.125,
+03,"Asturias, Principado de",2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.975,6.0
+03,"Asturias, Principado de",2019,"Segunda etapa de educación secundaria, con orientación general",13.775,5.0
+03,"Asturias, Principado de",2020,Analfabetos,0.575,1.0
+03,"Asturias, Principado de",2020,Educación primaria,13.275,3.0
+03,"Asturias, Principado de",2020,Educación superior,33.6,7.0
+03,"Asturias, Principado de",2020,Estudios primarios incompletos,2.375,2.0
+03,"Asturias, Principado de",2020,Primera etapa de Educación Secundaria y similar,27.625,
+03,"Asturias, Principado de",2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.825,6.0
+03,"Asturias, Principado de",2020,"Segunda etapa de educación secundaria, con orientación general",13.775,5.0
+03,"Asturias, Principado de",2021,Analfabetos,0.575,1.0
+03,"Asturias, Principado de",2021,Educación primaria,11.524999999999999,3.0
+03,"Asturias, Principado de",2021,Educación superior,33.575,7.0
+03,"Asturias, Principado de",2021,Estudios primarios incompletos,2.625,2.0
+03,"Asturias, Principado de",2021,Primera etapa de Educación Secundaria y similar,29.8,
+03,"Asturias, Principado de",2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.075,6.0
+03,"Asturias, Principado de",2021,"Segunda etapa de educación secundaria, con orientación general",12.8,5.0
+03,"Asturias, Principado de",2022,Analfabetos,0.75,1.0
+03,"Asturias, Principado de",2022,Educación primaria,9.175,3.0
+03,"Asturias, Principado de",2022,Educación superior,33.025,7.0
+03,"Asturias, Principado de",2022,Estudios primarios incompletos,2.55,2.0
+03,"Asturias, Principado de",2022,Primera etapa de Educación Secundaria y similar,32.099999999999994,
+03,"Asturias, Principado de",2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.075,6.0
+03,"Asturias, Principado de",2022,"Segunda etapa de educación secundaria, con orientación general",13.3,5.0
+03,"Asturias, Principado de",2023,Analfabetos,0.325,1.0
+03,"Asturias, Principado de",2023,Educación primaria,8.774999999999999,3.0
+03,"Asturias, Principado de",2023,Educación superior,33.25,7.0
+03,"Asturias, Principado de",2023,Estudios primarios incompletos,2.0,2.0
+03,"Asturias, Principado de",2023,Primera etapa de Educación Secundaria y similar,32.125,
+03,"Asturias, Principado de",2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.675,6.0
+03,"Asturias, Principado de",2023,"Segunda etapa de educación secundaria, con orientación general",13.875,5.0
+03,"Asturias, Principado de",2024,Analfabetos,0.55,1.0
+03,"Asturias, Principado de",2024,Educación primaria,7.55,3.0
+03,"Asturias, Principado de",2024,Educación superior,33.7,7.0
+03,"Asturias, Principado de",2024,Estudios primarios incompletos,1.9,2.0
+03,"Asturias, Principado de",2024,Primera etapa de Educación Secundaria y similar,31.075,
+03,"Asturias, Principado de",2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.7,6.0
+03,"Asturias, Principado de",2024,"Segunda etapa de educación secundaria, con orientación general",14.575,5.0
+03,"Asturias, Principado de",2025,Analfabetos,0.5,1.0
+03,"Asturias, Principado de",2025,Educación primaria,7.1,3.0
+03,"Asturias, Principado de",2025,Educación superior,35.9,7.0
+03,"Asturias, Principado de",2025,Estudios primarios incompletos,1.9,2.0
+03,"Asturias, Principado de",2025,Primera etapa de Educación Secundaria y similar,29.7,
+03,"Asturias, Principado de",2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),11.0,6.0
+03,"Asturias, Principado de",2025,"Segunda etapa de educación secundaria, con orientación general",14.0,5.0
+04,"Balears, Illes",2014,Analfabetos,1.85,1.0
+04,"Balears, Illes",2014,Educación primaria,11.75,3.0
+04,"Balears, Illes",2014,Educación superior,22.775,7.0
+04,"Balears, Illes",2014,Estudios primarios incompletos,6.925,2.0
+04,"Balears, Illes",2014,Primera etapa de Educación Secundaria y similar,34.35,
+04,"Balears, Illes",2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.875,6.0
+04,"Balears, Illes",2014,"Segunda etapa de educación secundaria, con orientación general",15.45,5.0
+04,"Balears, Illes",2015,Analfabetos,1.6,1.0
+04,"Balears, Illes",2015,Educación primaria,10.2,3.0
+04,"Balears, Illes",2015,Educación superior,22.725,7.0
+04,"Balears, Illes",2015,Estudios primarios incompletos,6.325,2.0
+04,"Balears, Illes",2015,Primera etapa de Educación Secundaria y similar,34.575,
+04,"Balears, Illes",2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.875,6.0
+04,"Balears, Illes",2015,"Segunda etapa de educación secundaria, con orientación general",16.625,5.0
+04,"Balears, Illes",2016,Analfabetos,1.75,1.0
+04,"Balears, Illes",2016,Educación primaria,9.65,3.0
+04,"Balears, Illes",2016,Educación superior,24.0,7.0
+04,"Balears, Illes",2016,Estudios primarios incompletos,5.2,2.0
+04,"Balears, Illes",2016,Primera etapa de Educación Secundaria y similar,33.45,
+04,"Balears, Illes",2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.775,6.0
+04,"Balears, Illes",2016,"Segunda etapa de educación secundaria, con orientación general",17.2,5.0
+04,"Balears, Illes",2017,Analfabetos,1.425,1.0
+04,"Balears, Illes",2017,Educación primaria,9.375,3.0
+04,"Balears, Illes",2017,Educación superior,25.375,7.0
+04,"Balears, Illes",2017,Estudios primarios incompletos,5.0,2.0
+04,"Balears, Illes",2017,Primera etapa de Educación Secundaria y similar,33.675,
+04,"Balears, Illes",2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.1,6.0
+04,"Balears, Illes",2017,"Segunda etapa de educación secundaria, con orientación general",17.0,5.0
+04,"Balears, Illes",2018,Analfabetos,1.625,1.0
+04,"Balears, Illes",2018,Educación primaria,10.175,3.0
+04,"Balears, Illes",2018,Educación superior,24.625,7.0
+04,"Balears, Illes",2018,Estudios primarios incompletos,4.475,2.0
+04,"Balears, Illes",2018,Primera etapa de Educación Secundaria y similar,33.175,
+04,"Balears, Illes",2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.825,6.0
+04,"Balears, Illes",2018,"Segunda etapa de educación secundaria, con orientación general",17.125,5.0
+04,"Balears, Illes",2019,Analfabetos,1.525,1.0
+04,"Balears, Illes",2019,Educación primaria,10.225,3.0
+04,"Balears, Illes",2019,Educación superior,26.275,7.0
+04,"Balears, Illes",2019,Estudios primarios incompletos,3.575,2.0
+04,"Balears, Illes",2019,Primera etapa de Educación Secundaria y similar,33.3,
+04,"Balears, Illes",2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.875,6.0
+04,"Balears, Illes",2019,"Segunda etapa de educación secundaria, con orientación general",16.3,5.0
+04,"Balears, Illes",2020,Analfabetos,1.5,1.0
+04,"Balears, Illes",2020,Educación primaria,8.3,3.0
+04,"Balears, Illes",2020,Educación superior,28.875,7.0
+04,"Balears, Illes",2020,Estudios primarios incompletos,3.8,2.0
+04,"Balears, Illes",2020,Primera etapa de Educación Secundaria y similar,31.7,
+04,"Balears, Illes",2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.45,6.0
+04,"Balears, Illes",2020,"Segunda etapa de educación secundaria, con orientación general",16.375,5.0
+04,"Balears, Illes",2021,Analfabetos,1.275,1.0
+04,"Balears, Illes",2021,Educación primaria,9.0,3.0
+04,"Balears, Illes",2021,Educación superior,29.425,7.0
+04,"Balears, Illes",2021,Estudios primarios incompletos,3.2,2.0
+04,"Balears, Illes",2021,Primera etapa de Educación Secundaria y similar,30.075,
+04,"Balears, Illes",2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.275,6.0
+04,"Balears, Illes",2021,"Segunda etapa de educación secundaria, con orientación general",16.825,5.0
+04,"Balears, Illes",2022,Analfabetos,1.175,1.0
+04,"Balears, Illes",2022,Educación primaria,10.525,3.0
+04,"Balears, Illes",2022,Educación superior,27.525,7.0
+04,"Balears, Illes",2022,Estudios primarios incompletos,3.3,2.0
+04,"Balears, Illes",2022,Primera etapa de Educación Secundaria y similar,31.0,
+04,"Balears, Illes",2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.9,6.0
+04,"Balears, Illes",2022,"Segunda etapa de educación secundaria, con orientación general",17.575,5.0
+04,"Balears, Illes",2023,Analfabetos,1.175,1.0
+04,"Balears, Illes",2023,Educación primaria,11.175,3.0
+04,"Balears, Illes",2023,Educación superior,27.15,7.0
+04,"Balears, Illes",2023,Estudios primarios incompletos,3.05,2.0
+04,"Balears, Illes",2023,Primera etapa de Educación Secundaria y similar,30.45,
+04,"Balears, Illes",2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.15,6.0
+04,"Balears, Illes",2023,"Segunda etapa de educación secundaria, con orientación general",17.825,5.0
+04,"Balears, Illes",2024,Analfabetos,1.05,1.0
+04,"Balears, Illes",2024,Educación primaria,11.275,3.0
+04,"Balears, Illes",2024,Educación superior,28.475,7.0
+04,"Balears, Illes",2024,Estudios primarios incompletos,2.5,2.0
+04,"Balears, Illes",2024,Primera etapa de Educación Secundaria y similar,31.0,
+04,"Balears, Illes",2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.825,6.0
+04,"Balears, Illes",2024,"Segunda etapa de educación secundaria, con orientación general",15.899999999999999,5.0
+04,"Balears, Illes",2025,Analfabetos,1.0,1.0
+04,"Balears, Illes",2025,Educación primaria,9.2,3.0
+04,"Balears, Illes",2025,Educación superior,27.9,7.0
+04,"Balears, Illes",2025,Estudios primarios incompletos,3.7,2.0
+04,"Balears, Illes",2025,Primera etapa de Educación Secundaria y similar,31.8,
+04,"Balears, Illes",2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.7,6.0
+04,"Balears, Illes",2025,"Segunda etapa de educación secundaria, con orientación general",16.7,5.0
+05,Canarias,2014,Analfabetos,2.5,1.0
+05,Canarias,2014,Educación primaria,16.375,3.0
+05,Canarias,2014,Educación superior,22.15,7.0
+05,Canarias,2014,Estudios primarios incompletos,8.575,2.0
+05,Canarias,2014,Primera etapa de Educación Secundaria y similar,28.575,
+05,Canarias,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.525,6.0
+05,Canarias,2014,"Segunda etapa de educación secundaria, con orientación general",15.35,5.0
+05,Canarias,2015,Analfabetos,2.3249999999999997,1.0
+05,Canarias,2015,Educación primaria,15.475,3.0
+05,Canarias,2015,Educación superior,21.925,7.0
+05,Canarias,2015,Estudios primarios incompletos,8.175,2.0
+05,Canarias,2015,Primera etapa de Educación Secundaria y similar,28.8,
+05,Canarias,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.65,6.0
+05,Canarias,2015,"Segunda etapa de educación secundaria, con orientación general",15.7,5.0
+05,Canarias,2016,Analfabetos,1.925,1.0
+05,Canarias,2016,Educación primaria,14.675,3.0
+05,Canarias,2016,Educación superior,24.2,7.0
+05,Canarias,2016,Estudios primarios incompletos,7.375,2.0
+05,Canarias,2016,Primera etapa de Educación Secundaria y similar,28.2,
+05,Canarias,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.225,6.0
+05,Canarias,2016,"Segunda etapa de educación secundaria, con orientación general",16.4,5.0
+05,Canarias,2017,Analfabetos,1.875,1.0
+05,Canarias,2017,Educación primaria,14.575,3.0
+05,Canarias,2017,Educación superior,24.525,7.0
+05,Canarias,2017,Estudios primarios incompletos,6.8,2.0
+05,Canarias,2017,Primera etapa de Educación Secundaria y similar,28.225,
+05,Canarias,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.45,6.0
+05,Canarias,2017,"Segunda etapa de educación secundaria, con orientación general",16.575,5.0
+05,Canarias,2018,Analfabetos,1.8,1.0
+05,Canarias,2018,Educación primaria,13.674999999999999,3.0
+05,Canarias,2018,Educación superior,25.2,7.0
+05,Canarias,2018,Estudios primarios incompletos,6.825,2.0
+05,Canarias,2018,Primera etapa de Educación Secundaria y similar,28.775,
+05,Canarias,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.775,6.0
+05,Canarias,2018,"Segunda etapa de educación secundaria, con orientación general",15.95,5.0
+05,Canarias,2019,Analfabetos,1.55,1.0
+05,Canarias,2019,Educación primaria,13.975,3.0
+05,Canarias,2019,Educación superior,27.424999999999997,7.0
+05,Canarias,2019,Estudios primarios incompletos,5.625,2.0
+05,Canarias,2019,Primera etapa de Educación Secundaria y similar,27.7,
+05,Canarias,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.525,6.0
+05,Canarias,2019,"Segunda etapa de educación secundaria, con orientación general",16.25,5.0
+05,Canarias,2020,Analfabetos,1.85,1.0
+05,Canarias,2020,Educación primaria,12.475,3.0
+05,Canarias,2020,Educación superior,28.724999999999998,7.0
+05,Canarias,2020,Estudios primarios incompletos,5.7,2.0
+05,Canarias,2020,Primera etapa de Educación Secundaria y similar,25.825,
+05,Canarias,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.525,6.0
+05,Canarias,2020,"Segunda etapa de educación secundaria, con orientación general",17.925,5.0
+05,Canarias,2021,Analfabetos,1.825,1.0
+05,Canarias,2021,Educación primaria,11.925,3.0
+05,Canarias,2021,Educación superior,29.625,7.0
+05,Canarias,2021,Estudios primarios incompletos,5.7250000000000005,2.0
+05,Canarias,2021,Primera etapa de Educación Secundaria y similar,25.7,
+05,Canarias,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.975,6.0
+05,Canarias,2021,"Segunda etapa de educación secundaria, con orientación general",17.25,5.0
+05,Canarias,2022,Analfabetos,1.45,1.0
+05,Canarias,2022,Educación primaria,11.6,3.0
+05,Canarias,2022,Educación superior,30.025,7.0
+05,Canarias,2022,Estudios primarios incompletos,4.925,2.0
+05,Canarias,2022,Primera etapa de Educación Secundaria y similar,26.125,
+05,Canarias,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.225,6.0
+05,Canarias,2022,"Segunda etapa de educación secundaria, con orientación general",17.675,5.0
+05,Canarias,2023,Analfabetos,1.325,1.0
+05,Canarias,2023,Educación primaria,12.3,3.0
+05,Canarias,2023,Educación superior,28.3,7.0
+05,Canarias,2023,Estudios primarios incompletos,4.65,2.0
+05,Canarias,2023,Primera etapa de Educación Secundaria y similar,26.925,
+05,Canarias,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.925,6.0
+05,Canarias,2023,"Segunda etapa de educación secundaria, con orientación general",17.675,5.0
+05,Canarias,2024,Analfabetos,1.425,1.0
+05,Canarias,2024,Educación primaria,10.75,3.0
+05,Canarias,2024,Educación superior,29.55,7.0
+05,Canarias,2024,Estudios primarios incompletos,4.325,2.0
+05,Canarias,2024,Primera etapa de Educación Secundaria y similar,27.2,
+05,Canarias,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.625,6.0
+05,Canarias,2024,"Segunda etapa de educación secundaria, con orientación general",18.15,5.0
+05,Canarias,2025,Analfabetos,1.2,1.0
+05,Canarias,2025,Educación primaria,9.5,3.0
+05,Canarias,2025,Educación superior,30.0,7.0
+05,Canarias,2025,Estudios primarios incompletos,4.5,2.0
+05,Canarias,2025,Primera etapa de Educación Secundaria y similar,27.8,
+05,Canarias,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.6,6.0
+05,Canarias,2025,"Segunda etapa de educación secundaria, con orientación general",18.5,5.0
+06,Cantabria,2014,Analfabetos,0.35,1.0
+06,Cantabria,2014,Educación primaria,17.075,3.0
+06,Cantabria,2014,Educación superior,29.825000000000003,7.0
+06,Cantabria,2014,Estudios primarios incompletos,2.55,2.0
+06,Cantabria,2014,Primera etapa de Educación Secundaria y similar,26.425,
+06,Cantabria,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.85,6.0
+06,Cantabria,2014,"Segunda etapa de educación secundaria, con orientación general",13.9,5.0
+06,Cantabria,2015,Analfabetos,0.475,1.0
+06,Cantabria,2015,Educación primaria,15.85,3.0
+06,Cantabria,2015,Educación superior,30.05,7.0
+06,Cantabria,2015,Estudios primarios incompletos,2.25,2.0
+06,Cantabria,2015,Primera etapa de Educación Secundaria y similar,28.775,
+06,Cantabria,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.475,6.0
+06,Cantabria,2015,"Segunda etapa de educación secundaria, con orientación general",13.15,5.0
+06,Cantabria,2016,Analfabetos,0.35,1.0
+06,Cantabria,2016,Educación primaria,15.5,3.0
+06,Cantabria,2016,Educación superior,30.9,7.0
+06,Cantabria,2016,Estudios primarios incompletos,1.575,2.0
+06,Cantabria,2016,Primera etapa de Educación Secundaria y similar,28.675,
+06,Cantabria,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.850000000000001,6.0
+06,Cantabria,2016,"Segunda etapa de educación secundaria, con orientación general",13.125,5.0
+06,Cantabria,2017,Analfabetos,0.475,1.0
+06,Cantabria,2017,Educación primaria,14.6,3.0
+06,Cantabria,2017,Educación superior,31.549999999999997,7.0
+06,Cantabria,2017,Estudios primarios incompletos,1.575,2.0
+06,Cantabria,2017,Primera etapa de Educación Secundaria y similar,27.8,
+06,Cantabria,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.9,6.0
+06,Cantabria,2017,"Segunda etapa de educación secundaria, con orientación general",13.049999999999999,5.0
+06,Cantabria,2018,Analfabetos,0.44999999999999996,1.0
+06,Cantabria,2018,Educación primaria,14.775,3.0
+06,Cantabria,2018,Educación superior,31.55,7.0
+06,Cantabria,2018,Estudios primarios incompletos,1.1,2.0
+06,Cantabria,2018,Primera etapa de Educación Secundaria y similar,26.6,
+06,Cantabria,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.775,6.0
+06,Cantabria,2018,"Segunda etapa de educación secundaria, con orientación general",14.774999999999999,5.0
+06,Cantabria,2019,Analfabetos,0.325,1.0
+06,Cantabria,2019,Educación primaria,13.225,3.0
+06,Cantabria,2019,Educación superior,32.225,7.0
+06,Cantabria,2019,Estudios primarios incompletos,0.9750000000000001,2.0
+06,Cantabria,2019,Primera etapa de Educación Secundaria y similar,28.4,
+06,Cantabria,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.425,6.0
+06,Cantabria,2019,"Segunda etapa de educación secundaria, con orientación general",14.425,5.0
+06,Cantabria,2020,Analfabetos,0.375,1.0
+06,Cantabria,2020,Educación primaria,10.725,3.0
+06,Cantabria,2020,Educación superior,33.55,7.0
+06,Cantabria,2020,Estudios primarios incompletos,1.05,2.0
+06,Cantabria,2020,Primera etapa de Educación Secundaria y similar,30.6,
+06,Cantabria,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.925,6.0
+06,Cantabria,2020,"Segunda etapa de educación secundaria, con orientación general",12.725,5.0
+06,Cantabria,2021,Analfabetos,0.275,1.0
+06,Cantabria,2021,Educación primaria,9.725,3.0
+06,Cantabria,2021,Educación superior,33.925,7.0
+06,Cantabria,2021,Estudios primarios incompletos,1.125,2.0
+06,Cantabria,2021,Primera etapa de Educación Secundaria y similar,31.225,
+06,Cantabria,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),11.4,6.0
+06,Cantabria,2021,"Segunda etapa de educación secundaria, con orientación general",12.325,5.0
+06,Cantabria,2022,Analfabetos,0.35,1.0
+06,Cantabria,2022,Educación primaria,8.775,3.0
+06,Cantabria,2022,Educación superior,35.05,7.0
+06,Cantabria,2022,Estudios primarios incompletos,0.825,2.0
+06,Cantabria,2022,Primera etapa de Educación Secundaria y similar,31.475,
+06,Cantabria,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.325000000000001,6.0
+06,Cantabria,2022,"Segunda etapa de educación secundaria, con orientación general",13.225,5.0
+06,Cantabria,2023,Analfabetos,0.225,1.0
+06,Cantabria,2023,Educación primaria,8.05,3.0
+06,Cantabria,2023,Educación superior,38.475,7.0
+06,Cantabria,2023,Estudios primarios incompletos,0.5,2.0
+06,Cantabria,2023,Primera etapa de Educación Secundaria y similar,29.025,
+06,Cantabria,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.375,6.0
+06,Cantabria,2023,"Segunda etapa de educación secundaria, con orientación general",13.350000000000001,5.0
+06,Cantabria,2024,Analfabetos,0.25,1.0
+06,Cantabria,2024,Educación primaria,6.125,3.0
+06,Cantabria,2024,Educación superior,37.7,7.0
+06,Cantabria,2024,Estudios primarios incompletos,0.8999999999999999,2.0
+06,Cantabria,2024,Primera etapa de Educación Secundaria y similar,30.75,
+06,Cantabria,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.675,6.0
+06,Cantabria,2024,"Segunda etapa de educación secundaria, con orientación general",13.6,5.0
+06,Cantabria,2025,Analfabetos,0.2,1.0
+06,Cantabria,2025,Educación primaria,5.7,3.0
+06,Cantabria,2025,Educación superior,36.5,7.0
+06,Cantabria,2025,Estudios primarios incompletos,1.1,2.0
+06,Cantabria,2025,Primera etapa de Educación Secundaria y similar,31.6,
+06,Cantabria,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.1,6.0
+06,Cantabria,2025,"Segunda etapa de educación secundaria, con orientación general",14.8,5.0
+07,Castilla y León,2014,Analfabetos,0.975,1.0
+07,Castilla y León,2014,Educación primaria,19.85,3.0
+07,Castilla y León,2014,Educación superior,25.65,7.0
+07,Castilla y León,2014,Estudios primarios incompletos,5.45,2.0
+07,Castilla y León,2014,Primera etapa de Educación Secundaria y similar,28.125,
+07,Castilla y León,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.85,6.0
+07,Castilla y León,2014,"Segunda etapa de educación secundaria, con orientación general",12.1,5.0
+07,Castilla y León,2015,Analfabetos,1.05,1.0
+07,Castilla y León,2015,Educación primaria,19.25,3.0
+07,Castilla y León,2015,Educación superior,25.975,7.0
+07,Castilla y León,2015,Estudios primarios incompletos,5.125,2.0
+07,Castilla y León,2015,Primera etapa de Educación Secundaria y similar,28.8,
+07,Castilla y León,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.824999999999999,6.0
+07,Castilla y León,2015,"Segunda etapa de educación secundaria, con orientación general",11.925,5.0
+07,Castilla y León,2016,Analfabetos,0.95,1.0
+07,Castilla y León,2016,Educación primaria,19.15,3.0
+07,Castilla y León,2016,Educación superior,25.75,7.0
+07,Castilla y León,2016,Estudios primarios incompletos,4.7,2.0
+07,Castilla y León,2016,Primera etapa de Educación Secundaria y similar,28.95,
+07,Castilla y León,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.35,6.0
+07,Castilla y León,2016,"Segunda etapa de educación secundaria, con orientación general",12.175,5.0
+07,Castilla y León,2017,Analfabetos,0.8500000000000001,1.0
+07,Castilla y León,2017,Educación primaria,17.85,3.0
+07,Castilla y León,2017,Educación superior,26.525,7.0
+07,Castilla y León,2017,Estudios primarios incompletos,4.325,2.0
+07,Castilla y León,2017,Primera etapa de Educación Secundaria y similar,29.6,
+07,Castilla y León,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.45,6.0
+07,Castilla y León,2017,"Segunda etapa de educación secundaria, con orientación general",12.35,5.0
+07,Castilla y León,2018,Analfabetos,0.8250000000000001,1.0
+07,Castilla y León,2018,Educación primaria,17.3,3.0
+07,Castilla y León,2018,Educación superior,27.174999999999997,7.0
+07,Castilla y León,2018,Estudios primarios incompletos,3.75,2.0
+07,Castilla y León,2018,Primera etapa de Educación Secundaria y similar,29.925,
+07,Castilla y León,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.5,6.0
+07,Castilla y León,2018,"Segunda etapa de educación secundaria, con orientación general",12.475,5.0
+07,Castilla y León,2019,Analfabetos,0.6749999999999999,1.0
+07,Castilla y León,2019,Educación primaria,17.675,3.0
+07,Castilla y León,2019,Educación superior,28.75,7.0
+07,Castilla y León,2019,Estudios primarios incompletos,3.225,2.0
+07,Castilla y León,2019,Primera etapa de Educación Secundaria y similar,29.15,
+07,Castilla y León,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.3,6.0
+07,Castilla y León,2019,"Segunda etapa de educación secundaria, con orientación general",12.2,5.0
+07,Castilla y León,2020,Analfabetos,0.625,1.0
+07,Castilla y León,2020,Educación primaria,16.6,3.0
+07,Castilla y León,2020,Educación superior,29.175,7.0
+07,Castilla y León,2020,Estudios primarios incompletos,2.925,2.0
+07,Castilla y León,2020,Primera etapa de Educación Secundaria y similar,29.4,
+07,Castilla y León,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.5,6.0
+07,Castilla y León,2020,"Segunda etapa de educación secundaria, con orientación general",12.775,5.0
+07,Castilla y León,2021,Analfabetos,0.55,1.0
+07,Castilla y León,2021,Educación primaria,15.525,3.0
+07,Castilla y León,2021,Educación superior,29.8,7.0
+07,Castilla y León,2021,Estudios primarios incompletos,2.55,2.0
+07,Castilla y León,2021,Primera etapa de Educación Secundaria y similar,29.775,
+07,Castilla y León,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.25,6.0
+07,Castilla y León,2021,"Segunda etapa de educación secundaria, con orientación general",12.575,5.0
+07,Castilla y León,2022,Analfabetos,0.6499999999999999,1.0
+07,Castilla y León,2022,Educación primaria,15.25,3.0
+07,Castilla y León,2022,Educación superior,30.375,7.0
+07,Castilla y León,2022,Estudios primarios incompletos,2.5,2.0
+07,Castilla y León,2022,Primera etapa de Educación Secundaria y similar,28.875,
+07,Castilla y León,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.1,6.0
+07,Castilla y León,2022,"Segunda etapa de educación secundaria, con orientación general",13.3,5.0
+07,Castilla y León,2023,Analfabetos,0.575,1.0
+07,Castilla y León,2023,Educación primaria,14.9,3.0
+07,Castilla y León,2023,Educación superior,31.0,7.0
+07,Castilla y León,2023,Estudios primarios incompletos,2.85,2.0
+07,Castilla y León,2023,Primera etapa de Educación Secundaria y similar,28.075,
+07,Castilla y León,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.225,6.0
+07,Castilla y León,2023,"Segunda etapa de educación secundaria, con orientación general",13.35,5.0
+07,Castilla y León,2024,Analfabetos,0.7,1.0
+07,Castilla y León,2024,Educación primaria,13.4,3.0
+07,Castilla y León,2024,Educación superior,31.75,7.0
+07,Castilla y León,2024,Estudios primarios incompletos,2.875,2.0
+07,Castilla y León,2024,Primera etapa de Educación Secundaria y similar,28.75,
+07,Castilla y León,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.425,6.0
+07,Castilla y León,2024,"Segunda etapa de educación secundaria, con orientación general",13.075,5.0
+07,Castilla y León,2025,Analfabetos,0.7,1.0
+07,Castilla y León,2025,Educación primaria,13.6,3.0
+07,Castilla y León,2025,Educación superior,31.5,7.0
+07,Castilla y León,2025,Estudios primarios incompletos,2.5,2.0
+07,Castilla y León,2025,Primera etapa de Educación Secundaria y similar,28.6,
+07,Castilla y León,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.2,6.0
+07,Castilla y León,2025,"Segunda etapa de educación secundaria, con orientación general",13.9,5.0
+08,Castilla - La Mancha,2014,Analfabetos,2.4,1.0
+08,Castilla - La Mancha,2014,Educación primaria,13.975000000000001,3.0
+08,Castilla - La Mancha,2014,Educación superior,20.925,7.0
+08,Castilla - La Mancha,2014,Estudios primarios incompletos,11.975000000000001,2.0
+08,Castilla - La Mancha,2014,Primera etapa de Educación Secundaria y similar,31.475,
+08,Castilla - La Mancha,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.85,6.0
+08,Castilla - La Mancha,2014,"Segunda etapa de educación secundaria, con orientación general",12.35,5.0
+08,Castilla - La Mancha,2015,Analfabetos,2.325,1.0
+08,Castilla - La Mancha,2015,Educación primaria,13.6,3.0
+08,Castilla - La Mancha,2015,Educación superior,20.95,7.0
+08,Castilla - La Mancha,2015,Estudios primarios incompletos,11.075,2.0
+08,Castilla - La Mancha,2015,Primera etapa de Educación Secundaria y similar,32.35,
+08,Castilla - La Mancha,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.175,6.0
+08,Castilla - La Mancha,2015,"Segunda etapa de educación secundaria, con orientación general",12.5,5.0
+08,Castilla - La Mancha,2016,Analfabetos,2.3249999999999997,1.0
+08,Castilla - La Mancha,2016,Educación primaria,13.525,3.0
+08,Castilla - La Mancha,2016,Educación superior,21.0,7.0
+08,Castilla - La Mancha,2016,Estudios primarios incompletos,10.575,2.0
+08,Castilla - La Mancha,2016,Primera etapa de Educación Secundaria y similar,33.375,
+08,Castilla - La Mancha,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.125,6.0
+08,Castilla - La Mancha,2016,"Segunda etapa de educación secundaria, con orientación general",12.1,5.0
+08,Castilla - La Mancha,2017,Analfabetos,2.3499999999999996,1.0
+08,Castilla - La Mancha,2017,Educación primaria,12.775,3.0
+08,Castilla - La Mancha,2017,Educación superior,21.075,7.0
+08,Castilla - La Mancha,2017,Estudios primarios incompletos,10.3,2.0
+08,Castilla - La Mancha,2017,Primera etapa de Educación Secundaria y similar,33.825,
+08,Castilla - La Mancha,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.275,6.0
+08,Castilla - La Mancha,2017,"Segunda etapa de educación secundaria, con orientación general",12.4,5.0
+08,Castilla - La Mancha,2018,Analfabetos,2.05,1.0
+08,Castilla - La Mancha,2018,Educación primaria,12.2,3.0
+08,Castilla - La Mancha,2018,Educación superior,21.725,7.0
+08,Castilla - La Mancha,2018,Estudios primarios incompletos,9.524999999999999,2.0
+08,Castilla - La Mancha,2018,Primera etapa de Educación Secundaria y similar,34.525,
+08,Castilla - La Mancha,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.225,6.0
+08,Castilla - La Mancha,2018,"Segunda etapa de educación secundaria, con orientación general",12.75,5.0
+08,Castilla - La Mancha,2019,Analfabetos,2.05,1.0
+08,Castilla - La Mancha,2019,Educación primaria,12.9,3.0
+08,Castilla - La Mancha,2019,Educación superior,23.05,7.0
+08,Castilla - La Mancha,2019,Estudios primarios incompletos,8.0,2.0
+08,Castilla - La Mancha,2019,Primera etapa de Educación Secundaria y similar,33.975,
+08,Castilla - La Mancha,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.6,6.0
+08,Castilla - La Mancha,2019,"Segunda etapa de educación secundaria, con orientación general",12.45,5.0
+08,Castilla - La Mancha,2020,Analfabetos,1.65,1.0
+08,Castilla - La Mancha,2020,Educación primaria,12.475,3.0
+08,Castilla - La Mancha,2020,Educación superior,23.925,7.0
+08,Castilla - La Mancha,2020,Estudios primarios incompletos,7.375,2.0
+08,Castilla - La Mancha,2020,Primera etapa de Educación Secundaria y similar,33.900000000000006,
+08,Castilla - La Mancha,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.75,6.0
+08,Castilla - La Mancha,2020,"Segunda etapa de educación secundaria, con orientación general",12.9,5.0
+08,Castilla - La Mancha,2021,Analfabetos,1.65,1.0
+08,Castilla - La Mancha,2021,Educación primaria,11.825,3.0
+08,Castilla - La Mancha,2021,Educación superior,24.65,7.0
+08,Castilla - La Mancha,2021,Estudios primarios incompletos,7.125,2.0
+08,Castilla - La Mancha,2021,Primera etapa de Educación Secundaria y similar,33.099999999999994,
+08,Castilla - La Mancha,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.95,6.0
+08,Castilla - La Mancha,2021,"Segunda etapa de educación secundaria, con orientación general",13.65,5.0
+08,Castilla - La Mancha,2022,Analfabetos,1.425,1.0
+08,Castilla - La Mancha,2022,Educación primaria,12.05,3.0
+08,Castilla - La Mancha,2022,Educación superior,25.075,7.0
+08,Castilla - La Mancha,2022,Estudios primarios incompletos,7.300000000000001,2.0
+08,Castilla - La Mancha,2022,Primera etapa de Educación Secundaria y similar,32.975,
+08,Castilla - La Mancha,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.875,6.0
+08,Castilla - La Mancha,2022,"Segunda etapa de educación secundaria, con orientación general",13.375,5.0
+08,Castilla - La Mancha,2023,Analfabetos,1.3,1.0
+08,Castilla - La Mancha,2023,Educación primaria,11.65,3.0
+08,Castilla - La Mancha,2023,Educación superior,26.0,7.0
+08,Castilla - La Mancha,2023,Estudios primarios incompletos,7.05,2.0
+08,Castilla - La Mancha,2023,Primera etapa de Educación Secundaria y similar,33.175,
+08,Castilla - La Mancha,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.975,6.0
+08,Castilla - La Mancha,2023,"Segunda etapa de educación secundaria, con orientación general",12.875,5.0
+08,Castilla - La Mancha,2024,Analfabetos,1.15,1.0
+08,Castilla - La Mancha,2024,Educación primaria,11.05,3.0
+08,Castilla - La Mancha,2024,Educación superior,26.5,7.0
+08,Castilla - La Mancha,2024,Estudios primarios incompletos,6.175,2.0
+08,Castilla - La Mancha,2024,Primera etapa de Educación Secundaria y similar,34.2,
+08,Castilla - La Mancha,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.15,6.0
+08,Castilla - La Mancha,2024,"Segunda etapa de educación secundaria, con orientación general",12.8,5.0
+08,Castilla - La Mancha,2025,Analfabetos,1.1,1.0
+08,Castilla - La Mancha,2025,Educación primaria,10.7,3.0
+08,Castilla - La Mancha,2025,Educación superior,26.5,7.0
+08,Castilla - La Mancha,2025,Estudios primarios incompletos,5.5,2.0
+08,Castilla - La Mancha,2025,Primera etapa de Educación Secundaria y similar,33.9,
+08,Castilla - La Mancha,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.4,6.0
+08,Castilla - La Mancha,2025,"Segunda etapa de educación secundaria, con orientación general",13.9,5.0
+09,Cataluña,2014,Analfabetos,1.525,1.0
+09,Cataluña,2014,Educación primaria,17.675,3.0
+09,Cataluña,2014,Educación superior,28.75,7.0
+09,Cataluña,2014,Estudios primarios incompletos,6.275,2.0
+09,Cataluña,2014,Primera etapa de Educación Secundaria y similar,26.925,
+09,Cataluña,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.825,6.0
+09,Cataluña,2014,"Segunda etapa de educación secundaria, con orientación general",12.05,5.0
+09,Cataluña,2015,Analfabetos,1.7000000000000002,1.0
+09,Cataluña,2015,Educación primaria,17.0,3.0
+09,Cataluña,2015,Educación superior,29.2,7.0
+09,Cataluña,2015,Estudios primarios incompletos,5.675,2.0
+09,Cataluña,2015,Primera etapa de Educación Secundaria y similar,27.049999999999997,
+09,Cataluña,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.199999999999999,6.0
+09,Cataluña,2015,"Segunda etapa de educación secundaria, con orientación general",12.2,5.0
+09,Cataluña,2016,Analfabetos,1.5,1.0
+09,Cataluña,2016,Educación primaria,16.325,3.0
+09,Cataluña,2016,Educación superior,30.125,7.0
+09,Cataluña,2016,Estudios primarios incompletos,5.6,2.0
+09,Cataluña,2016,Primera etapa de Educación Secundaria y similar,26.325,
+09,Cataluña,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.2,6.0
+09,Cataluña,2016,"Segunda etapa de educación secundaria, con orientación general",12.95,5.0
+09,Cataluña,2017,Analfabetos,1.325,1.0
+09,Cataluña,2017,Educación primaria,15.825,3.0
+09,Cataluña,2017,Educación superior,30.85,7.0
+09,Cataluña,2017,Estudios primarios incompletos,5.3,2.0
+09,Cataluña,2017,Primera etapa de Educación Secundaria y similar,26.775,
+09,Cataluña,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.2,6.0
+09,Cataluña,2017,"Segunda etapa de educación secundaria, con orientación general",12.7,5.0
+09,Cataluña,2018,Analfabetos,1.325,1.0
+09,Cataluña,2018,Educación primaria,14.55,3.0
+09,Cataluña,2018,Educación superior,31.975,7.0
+09,Cataluña,2018,Estudios primarios incompletos,5.125,2.0
+09,Cataluña,2018,Primera etapa de Educación Secundaria y similar,26.825,
+09,Cataluña,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.6,6.0
+09,Cataluña,2018,"Segunda etapa de educación secundaria, con orientación general",12.6,5.0
+09,Cataluña,2019,Analfabetos,1.35,1.0
+09,Cataluña,2019,Educación primaria,13.55,3.0
+09,Cataluña,2019,Educación superior,32.9,7.0
+09,Cataluña,2019,Estudios primarios incompletos,4.5,2.0
+09,Cataluña,2019,Primera etapa de Educación Secundaria y similar,27.4,
+09,Cataluña,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.5,6.0
+09,Cataluña,2019,"Segunda etapa de educación secundaria, con orientación general",12.75,5.0
+09,Cataluña,2020,Analfabetos,1.25,1.0
+09,Cataluña,2020,Educación primaria,12.4,3.0
+09,Cataluña,2020,Educación superior,32.975,7.0
+09,Cataluña,2020,Estudios primarios incompletos,4.275,2.0
+09,Cataluña,2020,Primera etapa de Educación Secundaria y similar,28.725,
+09,Cataluña,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.975,6.0
+09,Cataluña,2020,"Segunda etapa de educación secundaria, con orientación general",12.425,5.0
+09,Cataluña,2021,Analfabetos,1.325,1.0
+09,Cataluña,2021,Educación primaria,12.225,3.0
+09,Cataluña,2021,Educación superior,33.35,7.0
+09,Cataluña,2021,Estudios primarios incompletos,4.275,2.0
+09,Cataluña,2021,Primera etapa de Educación Secundaria y similar,27.525,
+09,Cataluña,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.875,6.0
+09,Cataluña,2021,"Segunda etapa de educación secundaria, con orientación general",13.425,5.0
+09,Cataluña,2022,Analfabetos,1.425,1.0
+09,Cataluña,2022,Educación primaria,12.25,3.0
+09,Cataluña,2022,Educación superior,34.175,7.0
+09,Cataluña,2022,Estudios primarios incompletos,4.05,2.0
+09,Cataluña,2022,Primera etapa de Educación Secundaria y similar,26.675,
+09,Cataluña,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.025,6.0
+09,Cataluña,2022,"Segunda etapa de educación secundaria, con orientación general",13.475,5.0
+09,Cataluña,2023,Analfabetos,1.2,1.0
+09,Cataluña,2023,Educación primaria,12.3,3.0
+09,Cataluña,2023,Educación superior,35.05,7.0
+09,Cataluña,2023,Estudios primarios incompletos,3.425,2.0
+09,Cataluña,2023,Primera etapa de Educación Secundaria y similar,26.15,
+09,Cataluña,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.825,6.0
+09,Cataluña,2023,"Segunda etapa de educación secundaria, con orientación general",14.05,5.0
+09,Cataluña,2024,Analfabetos,1.0,1.0
+09,Cataluña,2024,Educación primaria,11.625,3.0
+09,Cataluña,2024,Educación superior,36.15,7.0
+09,Cataluña,2024,Estudios primarios incompletos,3.05,2.0
+09,Cataluña,2024,Primera etapa de Educación Secundaria y similar,25.95,
+09,Cataluña,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.824999999999999,6.0
+09,Cataluña,2024,"Segunda etapa de educación secundaria, con orientación general",14.4,5.0
+09,Cataluña,2025,Analfabetos,1.1,1.0
+09,Cataluña,2025,Educación primaria,11.6,3.0
+09,Cataluña,2025,Educación superior,37.2,7.0
+09,Cataluña,2025,Estudios primarios incompletos,2.9,2.0
+09,Cataluña,2025,Primera etapa de Educación Secundaria y similar,25.2,
+09,Cataluña,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.1,6.0
+09,Cataluña,2025,"Segunda etapa de educación secundaria, con orientación general",13.8,5.0
+10,Comunitat Valenciana,2014,Analfabetos,1.825,1.0
+10,Comunitat Valenciana,2014,Educación primaria,12.9,3.0
+10,Comunitat Valenciana,2014,Educación superior,25.2,7.0
+10,Comunitat Valenciana,2014,Estudios primarios incompletos,6.625,2.0
+10,Comunitat Valenciana,2014,Primera etapa de Educación Secundaria y similar,32.375,
+10,Comunitat Valenciana,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.075,6.0
+10,Comunitat Valenciana,2014,"Segunda etapa de educación secundaria, con orientación general",13.025,5.0
+10,Comunitat Valenciana,2015,Analfabetos,1.7000000000000002,1.0
+10,Comunitat Valenciana,2015,Educación primaria,11.075,3.0
+10,Comunitat Valenciana,2015,Educación superior,25.725,7.0
+10,Comunitat Valenciana,2015,Estudios primarios incompletos,6.275,2.0
+10,Comunitat Valenciana,2015,Primera etapa de Educación Secundaria y similar,33.975,
+10,Comunitat Valenciana,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.4,6.0
+10,Comunitat Valenciana,2015,"Segunda etapa de educación secundaria, con orientación general",12.875,5.0
+10,Comunitat Valenciana,2016,Analfabetos,1.85,1.0
+10,Comunitat Valenciana,2016,Educación primaria,10.95,3.0
+10,Comunitat Valenciana,2016,Educación superior,26.075,7.0
+10,Comunitat Valenciana,2016,Estudios primarios incompletos,5.65,2.0
+10,Comunitat Valenciana,2016,Primera etapa de Educación Secundaria y similar,33.85,
+10,Comunitat Valenciana,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.775,6.0
+10,Comunitat Valenciana,2016,"Segunda etapa de educación secundaria, con orientación general",12.875,5.0
+10,Comunitat Valenciana,2017,Analfabetos,1.775,1.0
+10,Comunitat Valenciana,2017,Educación primaria,10.925,3.0
+10,Comunitat Valenciana,2017,Educación superior,26.125,7.0
+10,Comunitat Valenciana,2017,Estudios primarios incompletos,5.675,2.0
+10,Comunitat Valenciana,2017,Primera etapa de Educación Secundaria y similar,33.175,
+10,Comunitat Valenciana,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.475,6.0
+10,Comunitat Valenciana,2017,"Segunda etapa de educación secundaria, con orientación general",13.775,5.0
+10,Comunitat Valenciana,2018,Analfabetos,1.65,1.0
+10,Comunitat Valenciana,2018,Educación primaria,10.45,3.0
+10,Comunitat Valenciana,2018,Educación superior,27.675,7.0
+10,Comunitat Valenciana,2018,Estudios primarios incompletos,5.725,2.0
+10,Comunitat Valenciana,2018,Primera etapa de Educación Secundaria y similar,32.375,
+10,Comunitat Valenciana,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.775,6.0
+10,Comunitat Valenciana,2018,"Segunda etapa de educación secundaria, con orientación general",13.275,5.0
+10,Comunitat Valenciana,2019,Analfabetos,1.425,1.0
+10,Comunitat Valenciana,2019,Educación primaria,10.05,3.0
+10,Comunitat Valenciana,2019,Educación superior,29.0,7.0
+10,Comunitat Valenciana,2019,Estudios primarios incompletos,5.0,2.0
+10,Comunitat Valenciana,2019,Primera etapa de Educación Secundaria y similar,32.425,
+10,Comunitat Valenciana,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.8,6.0
+10,Comunitat Valenciana,2019,"Segunda etapa de educación secundaria, con orientación general",13.35,5.0
+10,Comunitat Valenciana,2020,Analfabetos,1.325,1.0
+10,Comunitat Valenciana,2020,Educación primaria,8.05,3.0
+10,Comunitat Valenciana,2020,Educación superior,30.05,7.0
+10,Comunitat Valenciana,2020,Estudios primarios incompletos,4.775,2.0
+10,Comunitat Valenciana,2020,Primera etapa de Educación Secundaria y similar,32.4,
+10,Comunitat Valenciana,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.1,6.0
+10,Comunitat Valenciana,2020,"Segunda etapa de educación secundaria, con orientación general",14.375,5.0
+10,Comunitat Valenciana,2021,Analfabetos,1.375,1.0
+10,Comunitat Valenciana,2021,Educación primaria,8.4,3.0
+10,Comunitat Valenciana,2021,Educación superior,30.575,7.0
+10,Comunitat Valenciana,2021,Estudios primarios incompletos,4.1,2.0
+10,Comunitat Valenciana,2021,Primera etapa de Educación Secundaria y similar,32.35,
+10,Comunitat Valenciana,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.125,6.0
+10,Comunitat Valenciana,2021,"Segunda etapa de educación secundaria, con orientación general",14.025,5.0
+10,Comunitat Valenciana,2022,Analfabetos,1.4,1.0
+10,Comunitat Valenciana,2022,Educación primaria,8.375,3.0
+10,Comunitat Valenciana,2022,Educación superior,30.025,7.0
+10,Comunitat Valenciana,2022,Estudios primarios incompletos,4.125,2.0
+10,Comunitat Valenciana,2022,Primera etapa de Educación Secundaria y similar,34.474999999999994,
+10,Comunitat Valenciana,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.3,6.0
+10,Comunitat Valenciana,2022,"Segunda etapa de educación secundaria, con orientación general",12.3,5.0
+10,Comunitat Valenciana,2023,Analfabetos,1.225,1.0
+10,Comunitat Valenciana,2023,Educación primaria,8.35,3.0
+10,Comunitat Valenciana,2023,Educación superior,30.775,7.0
+10,Comunitat Valenciana,2023,Estudios primarios incompletos,4.575,2.0
+10,Comunitat Valenciana,2023,Primera etapa de Educación Secundaria y similar,33.55,
+10,Comunitat Valenciana,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.65,6.0
+10,Comunitat Valenciana,2023,"Segunda etapa de educación secundaria, con orientación general",11.875,5.0
+10,Comunitat Valenciana,2024,Analfabetos,1.225,1.0
+10,Comunitat Valenciana,2024,Educación primaria,7.8,3.0
+10,Comunitat Valenciana,2024,Educación superior,30.35,7.0
+10,Comunitat Valenciana,2024,Estudios primarios incompletos,4.55,2.0
+10,Comunitat Valenciana,2024,Primera etapa de Educación Secundaria y similar,33.25,
+10,Comunitat Valenciana,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.6,6.0
+10,Comunitat Valenciana,2024,"Segunda etapa de educación secundaria, con orientación general",13.274999999999999,5.0
+10,Comunitat Valenciana,2025,Analfabetos,1.1,1.0
+10,Comunitat Valenciana,2025,Educación primaria,7.9,3.0
+10,Comunitat Valenciana,2025,Educación superior,30.0,7.0
+10,Comunitat Valenciana,2025,Estudios primarios incompletos,4.2,2.0
+10,Comunitat Valenciana,2025,Primera etapa de Educación Secundaria y similar,34.8,
+10,Comunitat Valenciana,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.4,6.0
+10,Comunitat Valenciana,2025,"Segunda etapa de educación secundaria, con orientación general",12.6,5.0
+11,Extremadura,2014,Analfabetos,3.375,1.0
+11,Extremadura,2014,Educación primaria,12.875,3.0
+11,Extremadura,2014,Educación superior,20.15,7.0
+11,Extremadura,2014,Estudios primarios incompletos,11.6,2.0
+11,Extremadura,2014,Primera etapa de Educación Secundaria y similar,36.5,
+11,Extremadura,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.8,6.0
+11,Extremadura,2014,"Segunda etapa de educación secundaria, con orientación general",9.65,5.0
+11,Extremadura,2015,Analfabetos,2.9,1.0
+11,Extremadura,2015,Educación primaria,13.725,3.0
+11,Extremadura,2015,Educación superior,20.375,7.0
+11,Extremadura,2015,Estudios primarios incompletos,10.7,2.0
+11,Extremadura,2015,Primera etapa de Educación Secundaria y similar,36.525,
+11,Extremadura,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.1,6.0
+11,Extremadura,2015,"Segunda etapa de educación secundaria, con orientación general",9.7,5.0
+11,Extremadura,2016,Analfabetos,2.65,1.0
+11,Extremadura,2016,Educación primaria,14.55,3.0
+11,Extremadura,2016,Educación superior,19.275,7.0
+11,Extremadura,2016,Estudios primarios incompletos,10.475,2.0
+11,Extremadura,2016,Primera etapa de Educación Secundaria y similar,36.675,
+11,Extremadura,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.525,6.0
+11,Extremadura,2016,"Segunda etapa de educación secundaria, con orientación general",9.825,5.0
+11,Extremadura,2017,Analfabetos,2.9,1.0
+11,Extremadura,2017,Educación primaria,12.075000000000001,3.0
+11,Extremadura,2017,Educación superior,20.275,7.0
+11,Extremadura,2017,Estudios primarios incompletos,10.75,2.0
+11,Extremadura,2017,Primera etapa de Educación Secundaria y similar,37.5,
+11,Extremadura,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.325,6.0
+11,Extremadura,2017,"Segunda etapa de educación secundaria, con orientación general",10.1,5.0
+11,Extremadura,2018,Analfabetos,3.0,1.0
+11,Extremadura,2018,Educación primaria,13.925,3.0
+11,Extremadura,2018,Educación superior,20.5,7.0
+11,Extremadura,2018,Estudios primarios incompletos,10.05,2.0
+11,Extremadura,2018,Primera etapa de Educación Secundaria y similar,35.025,
+11,Extremadura,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.225,6.0
+11,Extremadura,2018,"Segunda etapa de educación secundaria, con orientación general",10.350000000000001,5.0
+11,Extremadura,2019,Analfabetos,3.2750000000000004,1.0
+11,Extremadura,2019,Educación primaria,15.075,3.0
+11,Extremadura,2019,Educación superior,20.575,7.0
+11,Extremadura,2019,Estudios primarios incompletos,8.825,2.0
+11,Extremadura,2019,Primera etapa de Educación Secundaria y similar,33.925,
+11,Extremadura,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.7,6.0
+11,Extremadura,2019,"Segunda etapa de educación secundaria, con orientación general",10.6,5.0
+11,Extremadura,2020,Analfabetos,2.9,1.0
+11,Extremadura,2020,Educación primaria,14.275,3.0
+11,Extremadura,2020,Educación superior,20.975,7.0
+11,Extremadura,2020,Estudios primarios incompletos,8.075,2.0
+11,Extremadura,2020,Primera etapa de Educación Secundaria y similar,34.1,
+11,Extremadura,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.399999999999999,6.0
+11,Extremadura,2020,"Segunda etapa de educación secundaria, con orientación general",11.25,5.0
+11,Extremadura,2021,Analfabetos,2.55,1.0
+11,Extremadura,2021,Educación primaria,13.075,3.0
+11,Extremadura,2021,Educación superior,22.8,7.0
+11,Extremadura,2021,Estudios primarios incompletos,8.15,2.0
+11,Extremadura,2021,Primera etapa de Educación Secundaria y similar,34.1,
+11,Extremadura,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.9750000000000005,6.0
+11,Extremadura,2021,"Segunda etapa de educación secundaria, con orientación general",11.25,5.0
+11,Extremadura,2022,Analfabetos,2.275,1.0
+11,Extremadura,2022,Educación primaria,13.6,3.0
+11,Extremadura,2022,Educación superior,24.35,7.0
+11,Extremadura,2022,Estudios primarios incompletos,7.5,2.0
+11,Extremadura,2022,Primera etapa de Educación Secundaria y similar,33.225,
+11,Extremadura,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.075,6.0
+11,Extremadura,2022,"Segunda etapa de educación secundaria, con orientación general",11.025,5.0
+11,Extremadura,2023,Analfabetos,2.1750000000000003,1.0
+11,Extremadura,2023,Educación primaria,13.175,3.0
+11,Extremadura,2023,Educación superior,26.15,7.0
+11,Extremadura,2023,Estudios primarios incompletos,6.975,2.0
+11,Extremadura,2023,Primera etapa de Educación Secundaria y similar,32.1,
+11,Extremadura,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.25,6.0
+11,Extremadura,2023,"Segunda etapa de educación secundaria, con orientación general",11.175,5.0
+11,Extremadura,2024,Analfabetos,2.325,1.0
+11,Extremadura,2024,Educación primaria,12.65,3.0
+11,Extremadura,2024,Educación superior,26.925,7.0
+11,Extremadura,2024,Estudios primarios incompletos,6.975,2.0
+11,Extremadura,2024,Primera etapa de Educación Secundaria y similar,32.325,
+11,Extremadura,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.25,6.0
+11,Extremadura,2024,"Segunda etapa de educación secundaria, con orientación general",11.55,5.0
+11,Extremadura,2025,Analfabetos,2.3,1.0
+11,Extremadura,2025,Educación primaria,12.7,3.0
+11,Extremadura,2025,Educación superior,25.5,7.0
+11,Extremadura,2025,Estudios primarios incompletos,7.2,2.0
+11,Extremadura,2025,Primera etapa de Educación Secundaria y similar,33.6,
+11,Extremadura,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.2,6.0
+11,Extremadura,2025,"Segunda etapa de educación secundaria, con orientación general",11.5,5.0
+12,Galicia,2014,Analfabetos,1.35,1.0
+12,Galicia,2014,Educación primaria,19.6,3.0
+12,Galicia,2014,Educación superior,24.8,7.0
+12,Galicia,2014,Estudios primarios incompletos,6.8,2.0
+12,Galicia,2014,Primera etapa de Educación Secundaria y similar,30.2,
+12,Galicia,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.6,6.0
+12,Galicia,2014,"Segunda etapa de educación secundaria, con orientación general",10.6,5.0
+12,Galicia,2015,Analfabetos,1.275,1.0
+12,Galicia,2015,Educación primaria,18.225,3.0
+12,Galicia,2015,Educación superior,25.975,7.0
+12,Galicia,2015,Estudios primarios incompletos,7.3,2.0
+12,Galicia,2015,Primera etapa de Educación Secundaria y similar,29.5,
+12,Galicia,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.75,6.0
+12,Galicia,2015,"Segunda etapa de educación secundaria, con orientación general",11.025,5.0
+12,Galicia,2016,Analfabetos,1.175,1.0
+12,Galicia,2016,Educación primaria,16.625,3.0
+12,Galicia,2016,Educación superior,26.6,7.0
+12,Galicia,2016,Estudios primarios incompletos,7.4,2.0
+12,Galicia,2016,Primera etapa de Educación Secundaria y similar,30.175,
+12,Galicia,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.125,6.0
+12,Galicia,2016,"Segunda etapa de educación secundaria, con orientación general",10.875,5.0
+12,Galicia,2017,Analfabetos,1.175,1.0
+12,Galicia,2017,Educación primaria,16.3,3.0
+12,Galicia,2017,Educación superior,26.85,7.0
+12,Galicia,2017,Estudios primarios incompletos,7.6,2.0
+12,Galicia,2017,Primera etapa de Educación Secundaria y similar,29.975,
+12,Galicia,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.225,6.0
+12,Galicia,2017,"Segunda etapa de educación secundaria, con orientación general",10.8,5.0
+12,Galicia,2018,Analfabetos,1.15,1.0
+12,Galicia,2018,Educación primaria,15.45,3.0
+12,Galicia,2018,Educación superior,27.0,7.0
+12,Galicia,2018,Estudios primarios incompletos,7.275,2.0
+12,Galicia,2018,Primera etapa de Educación Secundaria y similar,30.174999999999997,
+12,Galicia,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.35,6.0
+12,Galicia,2018,"Segunda etapa de educación secundaria, con orientación general",11.65,5.0
+12,Galicia,2019,Analfabetos,1.0750000000000002,1.0
+12,Galicia,2019,Educación primaria,13.95,3.0
+12,Galicia,2019,Educación superior,27.9,7.0
+12,Galicia,2019,Estudios primarios incompletos,5.75,2.0
+12,Galicia,2019,Primera etapa de Educación Secundaria y similar,31.575,
+12,Galicia,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.725,6.0
+12,Galicia,2019,"Segunda etapa de educación secundaria, con orientación general",11.975,5.0
+12,Galicia,2020,Analfabetos,0.95,1.0
+12,Galicia,2020,Educación primaria,11.45,3.0
+12,Galicia,2020,Educación superior,29.7,7.0
+12,Galicia,2020,Estudios primarios incompletos,4.875,2.0
+12,Galicia,2020,Primera etapa de Educación Secundaria y similar,33.15,
+12,Galicia,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.575,6.0
+12,Galicia,2020,"Segunda etapa de educación secundaria, con orientación general",12.3,5.0
+12,Galicia,2021,Analfabetos,0.8,1.0
+12,Galicia,2021,Educación primaria,10.6,3.0
+12,Galicia,2021,Educación superior,30.425,7.0
+12,Galicia,2021,Estudios primarios incompletos,4.85,2.0
+12,Galicia,2021,Primera etapa de Educación Secundaria y similar,33.5,
+12,Galicia,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.6,6.0
+12,Galicia,2021,"Segunda etapa de educación secundaria, con orientación general",12.25,5.0
+12,Galicia,2022,Analfabetos,0.95,1.0
+12,Galicia,2022,Educación primaria,9.4,3.0
+12,Galicia,2022,Educación superior,30.975,7.0
+12,Galicia,2022,Estudios primarios incompletos,4.55,2.0
+12,Galicia,2022,Primera etapa de Educación Secundaria y similar,34.225,
+12,Galicia,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.8,6.0
+12,Galicia,2022,"Segunda etapa de educación secundaria, con orientación general",12.075,5.0
+12,Galicia,2023,Analfabetos,0.9,1.0
+12,Galicia,2023,Educación primaria,10.575000000000001,3.0
+12,Galicia,2023,Educación superior,30.525,7.0
+12,Galicia,2023,Estudios primarios incompletos,3.575,2.0
+12,Galicia,2023,Primera etapa de Educación Secundaria y similar,33.525,
+12,Galicia,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.25,6.0
+12,Galicia,2023,"Segunda etapa de educación secundaria, con orientación general",12.625,5.0
+12,Galicia,2024,Analfabetos,0.775,1.0
+12,Galicia,2024,Educación primaria,10.95,3.0
+12,Galicia,2024,Educación superior,30.95,7.0
+12,Galicia,2024,Estudios primarios incompletos,3.3,2.0
+12,Galicia,2024,Primera etapa de Educación Secundaria y similar,33.0,
+12,Galicia,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.85,6.0
+12,Galicia,2024,"Segunda etapa de educación secundaria, con orientación general",12.2,5.0
+12,Galicia,2025,Analfabetos,0.8,1.0
+12,Galicia,2025,Educación primaria,10.8,3.0
+12,Galicia,2025,Educación superior,31.4,7.0
+12,Galicia,2025,Estudios primarios incompletos,3.3,2.0
+12,Galicia,2025,Primera etapa de Educación Secundaria y similar,32.8,
+12,Galicia,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.1,6.0
+12,Galicia,2025,"Segunda etapa de educación secundaria, con orientación general",11.8,5.0
+13,"Madrid, Comunidad de",2014,Analfabetos,0.8,1.0
+13,"Madrid, Comunidad de",2014,Educación primaria,10.725,3.0
+13,"Madrid, Comunidad de",2014,Educación superior,38.475,7.0
+13,"Madrid, Comunidad de",2014,Estudios primarios incompletos,4.925,2.0
+13,"Madrid, Comunidad de",2014,Primera etapa de Educación Secundaria y similar,21.700000000000003,
+13,"Madrid, Comunidad de",2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.15,6.0
+13,"Madrid, Comunidad de",2014,"Segunda etapa de educación secundaria, con orientación general",18.25,5.0
+13,"Madrid, Comunidad de",2015,Analfabetos,0.775,1.0
+13,"Madrid, Comunidad de",2015,Educación primaria,10.775,3.0
+13,"Madrid, Comunidad de",2015,Educación superior,37.9,7.0
+13,"Madrid, Comunidad de",2015,Estudios primarios incompletos,4.95,2.0
+13,"Madrid, Comunidad de",2015,Primera etapa de Educación Secundaria y similar,22.0,
+13,"Madrid, Comunidad de",2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.4,6.0
+13,"Madrid, Comunidad de",2015,"Segunda etapa de educación secundaria, con orientación general",18.275,5.0
+13,"Madrid, Comunidad de",2016,Analfabetos,0.825,1.0
+13,"Madrid, Comunidad de",2016,Educación primaria,11.375,3.0
+13,"Madrid, Comunidad de",2016,Educación superior,37.675,7.0
+13,"Madrid, Comunidad de",2016,Estudios primarios incompletos,4.175,2.0
+13,"Madrid, Comunidad de",2016,Primera etapa de Educación Secundaria y similar,22.424999999999997,
+13,"Madrid, Comunidad de",2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),4.975,6.0
+13,"Madrid, Comunidad de",2016,"Segunda etapa de educación secundaria, con orientación general",18.575,5.0
+13,"Madrid, Comunidad de",2017,Analfabetos,0.875,1.0
+13,"Madrid, Comunidad de",2017,Educación primaria,10.425,3.0
+13,"Madrid, Comunidad de",2017,Educación superior,38.0,7.0
+13,"Madrid, Comunidad de",2017,Estudios primarios incompletos,3.425,2.0
+13,"Madrid, Comunidad de",2017,Primera etapa de Educación Secundaria y similar,22.55,
+13,"Madrid, Comunidad de",2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.65,6.0
+13,"Madrid, Comunidad de",2017,"Segunda etapa de educación secundaria, con orientación general",19.05,5.0
+13,"Madrid, Comunidad de",2018,Analfabetos,0.775,1.0
+13,"Madrid, Comunidad de",2018,Educación primaria,10.425,3.0
+13,"Madrid, Comunidad de",2018,Educación superior,38.15,7.0
+13,"Madrid, Comunidad de",2018,Estudios primarios incompletos,3.3,2.0
+13,"Madrid, Comunidad de",2018,Primera etapa de Educación Secundaria y similar,22.95,
+13,"Madrid, Comunidad de",2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.875,6.0
+13,"Madrid, Comunidad de",2018,"Segunda etapa de educación secundaria, con orientación general",18.475,5.0
+13,"Madrid, Comunidad de",2019,Analfabetos,0.6499999999999999,1.0
+13,"Madrid, Comunidad de",2019,Educación primaria,9.850000000000001,3.0
+13,"Madrid, Comunidad de",2019,Educación superior,39.650000000000006,7.0
+13,"Madrid, Comunidad de",2019,Estudios primarios incompletos,3.2,2.0
+13,"Madrid, Comunidad de",2019,Primera etapa de Educación Secundaria y similar,21.85,
+13,"Madrid, Comunidad de",2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.675,6.0
+13,"Madrid, Comunidad de",2019,"Segunda etapa de educación secundaria, con orientación general",19.125,5.0
+13,"Madrid, Comunidad de",2020,Analfabetos,0.7,1.0
+13,"Madrid, Comunidad de",2020,Educación primaria,9.2,3.0
+13,"Madrid, Comunidad de",2020,Educación superior,40.475,7.0
+13,"Madrid, Comunidad de",2020,Estudios primarios incompletos,2.8,2.0
+13,"Madrid, Comunidad de",2020,Primera etapa de Educación Secundaria y similar,21.4,
+13,"Madrid, Comunidad de",2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.975,6.0
+13,"Madrid, Comunidad de",2020,"Segunda etapa de educación secundaria, con orientación general",19.425,5.0
+13,"Madrid, Comunidad de",2021,Analfabetos,0.7,1.0
+13,"Madrid, Comunidad de",2021,Educación primaria,8.9,3.0
+13,"Madrid, Comunidad de",2021,Educación superior,40.75,7.0
+13,"Madrid, Comunidad de",2021,Estudios primarios incompletos,2.75,2.0
+13,"Madrid, Comunidad de",2021,Primera etapa de Educación Secundaria y similar,21.825,
+13,"Madrid, Comunidad de",2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.975,6.0
+13,"Madrid, Comunidad de",2021,"Segunda etapa de educación secundaria, con orientación general",19.125,5.0
+13,"Madrid, Comunidad de",2022,Analfabetos,0.55,1.0
+13,"Madrid, Comunidad de",2022,Educación primaria,9.7,3.0
+13,"Madrid, Comunidad de",2022,Educación superior,40.75,7.0
+13,"Madrid, Comunidad de",2022,Estudios primarios incompletos,2.225,2.0
+13,"Madrid, Comunidad de",2022,Primera etapa de Educación Secundaria y similar,21.25,
+13,"Madrid, Comunidad de",2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.0,6.0
+13,"Madrid, Comunidad de",2022,"Segunda etapa de educación secundaria, con orientación general",19.6,5.0
+13,"Madrid, Comunidad de",2023,Analfabetos,0.55,1.0
+13,"Madrid, Comunidad de",2023,Educación primaria,10.525,3.0
+13,"Madrid, Comunidad de",2023,Educación superior,40.625,7.0
+13,"Madrid, Comunidad de",2023,Estudios primarios incompletos,2.2,2.0
+13,"Madrid, Comunidad de",2023,Primera etapa de Educación Secundaria y similar,21.55,
+13,"Madrid, Comunidad de",2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.325,6.0
+13,"Madrid, Comunidad de",2023,"Segunda etapa de educación secundaria, con orientación general",18.175,5.0
+13,"Madrid, Comunidad de",2024,Analfabetos,0.6499999999999999,1.0
+13,"Madrid, Comunidad de",2024,Educación primaria,10.225,3.0
+13,"Madrid, Comunidad de",2024,Educación superior,41.2,7.0
+13,"Madrid, Comunidad de",2024,Estudios primarios incompletos,1.9,2.0
+13,"Madrid, Comunidad de",2024,Primera etapa de Educación Secundaria y similar,21.275,
+13,"Madrid, Comunidad de",2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.425,6.0
+13,"Madrid, Comunidad de",2024,"Segunda etapa de educación secundaria, con orientación general",18.35,5.0
+13,"Madrid, Comunidad de",2025,Analfabetos,0.6,1.0
+13,"Madrid, Comunidad de",2025,Educación primaria,10.0,3.0
+13,"Madrid, Comunidad de",2025,Educación superior,40.9,7.0
+13,"Madrid, Comunidad de",2025,Estudios primarios incompletos,2.0,2.0
+13,"Madrid, Comunidad de",2025,Primera etapa de Educación Secundaria y similar,21.1,
+13,"Madrid, Comunidad de",2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.8,6.0
+13,"Madrid, Comunidad de",2025,"Segunda etapa de educación secundaria, con orientación general",18.6,5.0
+14,"Murcia, Región de",2014,Analfabetos,3.725,1.0
+14,"Murcia, Región de",2014,Educación primaria,14.5,3.0
+14,"Murcia, Región de",2014,Educación superior,21.65,7.0
+14,"Murcia, Región de",2014,Estudios primarios incompletos,8.649999999999999,2.0
+14,"Murcia, Región de",2014,Primera etapa de Educación Secundaria y similar,30.8,
+14,"Murcia, Región de",2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.225,6.0
+14,"Murcia, Región de",2014,"Segunda etapa de educación secundaria, con orientación general",12.475,5.0
+14,"Murcia, Región de",2015,Analfabetos,3.75,1.0
+14,"Murcia, Región de",2015,Educación primaria,13.375,3.0
+14,"Murcia, Región de",2015,Educación superior,22.175,7.0
+14,"Murcia, Región de",2015,Estudios primarios incompletos,9.0,2.0
+14,"Murcia, Región de",2015,Primera etapa de Educación Secundaria y similar,31.025,
+14,"Murcia, Región de",2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.075,6.0
+14,"Murcia, Región de",2015,"Segunda etapa de educación secundaria, con orientación general",12.575,5.0
+14,"Murcia, Región de",2016,Analfabetos,3.5500000000000003,1.0
+14,"Murcia, Región de",2016,Educación primaria,13.225,3.0
+14,"Murcia, Región de",2016,Educación superior,22.65,7.0
+14,"Murcia, Región de",2016,Estudios primarios incompletos,8.375,2.0
+14,"Murcia, Región de",2016,Primera etapa de Educación Secundaria y similar,31.575000000000003,
+14,"Murcia, Región de",2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.3,6.0
+14,"Murcia, Región de",2016,"Segunda etapa de educación secundaria, con orientación general",12.225,5.0
+14,"Murcia, Región de",2017,Analfabetos,3.0,1.0
+14,"Murcia, Región de",2017,Educación primaria,12.175,3.0
+14,"Murcia, Región de",2017,Educación superior,23.675,7.0
+14,"Murcia, Región de",2017,Estudios primarios incompletos,7.525,2.0
+14,"Murcia, Región de",2017,Primera etapa de Educación Secundaria y similar,32.5,
+14,"Murcia, Región de",2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.1,6.0
+14,"Murcia, Región de",2017,"Segunda etapa de educación secundaria, con orientación general",13.0,5.0
+14,"Murcia, Región de",2018,Analfabetos,2.825,1.0
+14,"Murcia, Región de",2018,Educación primaria,10.275,3.0
+14,"Murcia, Región de",2018,Educación superior,25.075,7.0
+14,"Murcia, Región de",2018,Estudios primarios incompletos,7.15,2.0
+14,"Murcia, Región de",2018,Primera etapa de Educación Secundaria y similar,33.525,
+14,"Murcia, Región de",2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.225,6.0
+14,"Murcia, Región de",2018,"Segunda etapa de educación secundaria, con orientación general",12.925,5.0
+14,"Murcia, Región de",2019,Analfabetos,3.25,1.0
+14,"Murcia, Región de",2019,Educación primaria,10.2,3.0
+14,"Murcia, Región de",2019,Educación superior,25.425,7.0
+14,"Murcia, Región de",2019,Estudios primarios incompletos,6.35,2.0
+14,"Murcia, Región de",2019,Primera etapa de Educación Secundaria y similar,34.025000000000006,
+14,"Murcia, Región de",2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.525,6.0
+14,"Murcia, Región de",2019,"Segunda etapa de educación secundaria, con orientación general",12.2,5.0
+14,"Murcia, Región de",2020,Analfabetos,2.55,1.0
+14,"Murcia, Región de",2020,Educación primaria,9.925,3.0
+14,"Murcia, Región de",2020,Educación superior,26.625,7.0
+14,"Murcia, Región de",2020,Estudios primarios incompletos,6.25,2.0
+14,"Murcia, Región de",2020,Primera etapa de Educación Secundaria y similar,33.25,
+14,"Murcia, Región de",2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.625,6.0
+14,"Murcia, Región de",2020,"Segunda etapa de educación secundaria, con orientación general",12.8,5.0
+14,"Murcia, Región de",2021,Analfabetos,2.525,1.0
+14,"Murcia, Región de",2021,Educación primaria,9.075,3.0
+14,"Murcia, Región de",2021,Educación superior,27.25,7.0
+14,"Murcia, Región de",2021,Estudios primarios incompletos,5.8,2.0
+14,"Murcia, Región de",2021,Primera etapa de Educación Secundaria y similar,33.625,
+14,"Murcia, Región de",2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.475,6.0
+14,"Murcia, Región de",2021,"Segunda etapa de educación secundaria, con orientación general",13.274999999999999,5.0
+14,"Murcia, Región de",2022,Analfabetos,2.625,1.0
+14,"Murcia, Región de",2022,Educación primaria,8.375,3.0
+14,"Murcia, Región de",2022,Educación superior,24.975,7.0
+14,"Murcia, Región de",2022,Estudios primarios incompletos,6.375,2.0
+14,"Murcia, Región de",2022,Primera etapa de Educación Secundaria y similar,35.625,
+14,"Murcia, Región de",2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.675,6.0
+14,"Murcia, Región de",2022,"Segunda etapa de educación secundaria, con orientación general",13.375,5.0
+14,"Murcia, Región de",2023,Analfabetos,2.65,1.0
+14,"Murcia, Región de",2023,Educación primaria,8.5,3.0
+14,"Murcia, Región de",2023,Educación superior,26.15,7.0
+14,"Murcia, Región de",2023,Estudios primarios incompletos,6.35,2.0
+14,"Murcia, Región de",2023,Primera etapa de Educación Secundaria y similar,34.35,
+14,"Murcia, Región de",2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.3,6.0
+14,"Murcia, Región de",2023,"Segunda etapa de educación secundaria, con orientación general",13.675,5.0
+14,"Murcia, Región de",2024,Analfabetos,2.95,1.0
+14,"Murcia, Región de",2024,Educación primaria,8.925,3.0
+14,"Murcia, Región de",2024,Educación superior,26.925,7.0
+14,"Murcia, Región de",2024,Estudios primarios incompletos,6.425,2.0
+14,"Murcia, Región de",2024,Primera etapa de Educación Secundaria y similar,32.975,
+14,"Murcia, Región de",2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.674999999999999,6.0
+14,"Murcia, Región de",2024,"Segunda etapa de educación secundaria, con orientación general",13.125,5.0
+14,"Murcia, Región de",2025,Analfabetos,3.1,1.0
+14,"Murcia, Región de",2025,Educación primaria,8.8,3.0
+14,"Murcia, Región de",2025,Educación superior,28.5,7.0
+14,"Murcia, Región de",2025,Estudios primarios incompletos,6.6,2.0
+14,"Murcia, Región de",2025,Primera etapa de Educación Secundaria y similar,32.9,
+14,"Murcia, Región de",2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.5,6.0
+14,"Murcia, Región de",2025,"Segunda etapa de educación secundaria, con orientación general",11.6,5.0
+15,"Navarra, Comunidad Foral de",2014,Analfabetos,0.55,1.0
+15,"Navarra, Comunidad Foral de",2014,Educación primaria,16.45,3.0
+15,"Navarra, Comunidad Foral de",2014,Educación superior,33.1,7.0
+15,"Navarra, Comunidad Foral de",2014,Estudios primarios incompletos,3.175,2.0
+15,"Navarra, Comunidad Foral de",2014,Primera etapa de Educación Secundaria y similar,25.5,
+15,"Navarra, Comunidad Foral de",2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.525,6.0
+15,"Navarra, Comunidad Foral de",2014,"Segunda etapa de educación secundaria, con orientación general",12.75,5.0
+15,"Navarra, Comunidad Foral de",2015,Analfabetos,0.525,1.0
+15,"Navarra, Comunidad Foral de",2015,Educación primaria,16.6,3.0
+15,"Navarra, Comunidad Foral de",2015,Educación superior,32.425,7.0
+15,"Navarra, Comunidad Foral de",2015,Estudios primarios incompletos,2.7,2.0
+15,"Navarra, Comunidad Foral de",2015,Primera etapa de Educación Secundaria y similar,26.275,
+15,"Navarra, Comunidad Foral de",2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.6,6.0
+15,"Navarra, Comunidad Foral de",2015,"Segunda etapa de educación secundaria, con orientación general",12.825,5.0
+15,"Navarra, Comunidad Foral de",2016,Analfabetos,1.025,1.0
+15,"Navarra, Comunidad Foral de",2016,Educación primaria,15.950000000000001,3.0
+15,"Navarra, Comunidad Foral de",2016,Educación superior,34.35,7.0
+15,"Navarra, Comunidad Foral de",2016,Estudios primarios incompletos,2.7750000000000004,2.0
+15,"Navarra, Comunidad Foral de",2016,Primera etapa de Educación Secundaria y similar,24.025,
+15,"Navarra, Comunidad Foral de",2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.325,6.0
+15,"Navarra, Comunidad Foral de",2016,"Segunda etapa de educación secundaria, con orientación general",12.575,5.0
+15,"Navarra, Comunidad Foral de",2017,Analfabetos,0.95,1.0
+15,"Navarra, Comunidad Foral de",2017,Educación primaria,16.3,3.0
+15,"Navarra, Comunidad Foral de",2017,Educación superior,34.85,7.0
+15,"Navarra, Comunidad Foral de",2017,Estudios primarios incompletos,1.9500000000000002,2.0
+15,"Navarra, Comunidad Foral de",2017,Primera etapa de Educación Secundaria y similar,24.375,
+15,"Navarra, Comunidad Foral de",2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.275,6.0
+15,"Navarra, Comunidad Foral de",2017,"Segunda etapa de educación secundaria, con orientación general",11.325,5.0
+15,"Navarra, Comunidad Foral de",2018,Analfabetos,0.725,1.0
+15,"Navarra, Comunidad Foral de",2018,Educación primaria,17.2,3.0
+15,"Navarra, Comunidad Foral de",2018,Educación superior,34.975,7.0
+15,"Navarra, Comunidad Foral de",2018,Estudios primarios incompletos,1.55,2.0
+15,"Navarra, Comunidad Foral de",2018,Primera etapa de Educación Secundaria y similar,23.475,
+15,"Navarra, Comunidad Foral de",2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.85,6.0
+15,"Navarra, Comunidad Foral de",2018,"Segunda etapa de educación secundaria, con orientación general",12.25,5.0
+15,"Navarra, Comunidad Foral de",2019,Analfabetos,0.6,1.0
+15,"Navarra, Comunidad Foral de",2019,Educación primaria,15.05,3.0
+15,"Navarra, Comunidad Foral de",2019,Educación superior,36.425,7.0
+15,"Navarra, Comunidad Foral de",2019,Estudios primarios incompletos,1.5,2.0
+15,"Navarra, Comunidad Foral de",2019,Primera etapa de Educación Secundaria y similar,23.7,
+15,"Navarra, Comunidad Foral de",2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.025,6.0
+15,"Navarra, Comunidad Foral de",2019,"Segunda etapa de educación secundaria, con orientación general",12.75,5.0
+15,"Navarra, Comunidad Foral de",2020,Analfabetos,0.725,1.0
+15,"Navarra, Comunidad Foral de",2020,Educación primaria,12.575,3.0
+15,"Navarra, Comunidad Foral de",2020,Educación superior,37.875,7.0
+15,"Navarra, Comunidad Foral de",2020,Estudios primarios incompletos,1.825,2.0
+15,"Navarra, Comunidad Foral de",2020,Primera etapa de Educación Secundaria y similar,24.2,
+15,"Navarra, Comunidad Foral de",2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.525,6.0
+15,"Navarra, Comunidad Foral de",2020,"Segunda etapa de educación secundaria, con orientación general",13.274999999999999,5.0
+15,"Navarra, Comunidad Foral de",2021,Analfabetos,0.75,1.0
+15,"Navarra, Comunidad Foral de",2021,Educación primaria,13.225,3.0
+15,"Navarra, Comunidad Foral de",2021,Educación superior,37.85,7.0
+15,"Navarra, Comunidad Foral de",2021,Estudios primarios incompletos,2.35,2.0
+15,"Navarra, Comunidad Foral de",2021,Primera etapa de Educación Secundaria y similar,22.825,
+15,"Navarra, Comunidad Foral de",2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.9,6.0
+15,"Navarra, Comunidad Foral de",2021,"Segunda etapa de educación secundaria, con orientación general",13.049999999999999,5.0
+15,"Navarra, Comunidad Foral de",2022,Analfabetos,0.925,1.0
+15,"Navarra, Comunidad Foral de",2022,Educación primaria,12.7,3.0
+15,"Navarra, Comunidad Foral de",2022,Educación superior,37.35,7.0
+15,"Navarra, Comunidad Foral de",2022,Estudios primarios incompletos,2.35,2.0
+15,"Navarra, Comunidad Foral de",2022,Primera etapa de Educación Secundaria y similar,23.075,
+15,"Navarra, Comunidad Foral de",2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.45,6.0
+15,"Navarra, Comunidad Foral de",2022,"Segunda etapa de educación secundaria, con orientación general",13.200000000000001,5.0
+15,"Navarra, Comunidad Foral de",2023,Analfabetos,0.95,1.0
+15,"Navarra, Comunidad Foral de",2023,Educación primaria,12.7,3.0
+15,"Navarra, Comunidad Foral de",2023,Educación superior,37.775,7.0
+15,"Navarra, Comunidad Foral de",2023,Estudios primarios incompletos,2.675,2.0
+15,"Navarra, Comunidad Foral de",2023,Primera etapa de Educación Secundaria y similar,21.65,
+15,"Navarra, Comunidad Foral de",2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.1,6.0
+15,"Navarra, Comunidad Foral de",2023,"Segunda etapa de educación secundaria, con orientación general",14.175,5.0
+15,"Navarra, Comunidad Foral de",2024,Analfabetos,0.4,1.0
+15,"Navarra, Comunidad Foral de",2024,Educación primaria,12.275,3.0
+15,"Navarra, Comunidad Foral de",2024,Educación superior,40.1,7.0
+15,"Navarra, Comunidad Foral de",2024,Estudios primarios incompletos,2.2,2.0
+15,"Navarra, Comunidad Foral de",2024,Primera etapa de Educación Secundaria y similar,21.45,
+15,"Navarra, Comunidad Foral de",2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.325,6.0
+15,"Navarra, Comunidad Foral de",2024,"Segunda etapa de educación secundaria, con orientación general",13.225,5.0
+15,"Navarra, Comunidad Foral de",2025,Analfabetos,0.5,1.0
+15,"Navarra, Comunidad Foral de",2025,Educación primaria,12.8,3.0
+15,"Navarra, Comunidad Foral de",2025,Educación superior,39.7,7.0
+15,"Navarra, Comunidad Foral de",2025,Estudios primarios incompletos,2.0,2.0
+15,"Navarra, Comunidad Foral de",2025,Primera etapa de Educación Secundaria y similar,20.4,
+15,"Navarra, Comunidad Foral de",2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.4,6.0
+15,"Navarra, Comunidad Foral de",2025,"Segunda etapa de educación secundaria, con orientación general",14.2,5.0
+16,País Vasco,2014,Analfabetos,0.625,1.0
+16,País Vasco,2014,Educación primaria,17.85,3.0
+16,País Vasco,2014,Educación superior,36.425,7.0
+16,País Vasco,2014,Estudios primarios incompletos,2.35,2.0
+16,País Vasco,2014,Primera etapa de Educación Secundaria y similar,22.975,
+16,País Vasco,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.125,6.0
+16,País Vasco,2014,"Segunda etapa de educación secundaria, con orientación general",10.625,5.0
+16,País Vasco,2015,Analfabetos,0.575,1.0
+16,País Vasco,2015,Educación primaria,16.25,3.0
+16,País Vasco,2015,Educación superior,37.0,7.0
+16,País Vasco,2015,Estudios primarios incompletos,2.275,2.0
+16,País Vasco,2015,Primera etapa de Educación Secundaria y similar,23.375,
+16,País Vasco,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.125,6.0
+16,País Vasco,2015,"Segunda etapa de educación secundaria, con orientación general",11.35,5.0
+16,País Vasco,2016,Analfabetos,0.6,1.0
+16,País Vasco,2016,Educación primaria,15.475,3.0
+16,País Vasco,2016,Educación superior,37.325,7.0
+16,País Vasco,2016,Estudios primarios incompletos,2.225,2.0
+16,País Vasco,2016,Primera etapa de Educación Secundaria y similar,23.6,
+16,País Vasco,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.975,6.0
+16,País Vasco,2016,"Segunda etapa de educación secundaria, con orientación general",11.775,5.0
+16,País Vasco,2017,Analfabetos,0.625,1.0
+16,País Vasco,2017,Educación primaria,14.925,3.0
+16,País Vasco,2017,Educación superior,37.925,7.0
+16,País Vasco,2017,Estudios primarios incompletos,2.175,2.0
+16,País Vasco,2017,Primera etapa de Educación Secundaria y similar,23.675,
+16,País Vasco,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.25,6.0
+16,País Vasco,2017,"Segunda etapa de educación secundaria, con orientación general",11.425,5.0
+16,País Vasco,2018,Analfabetos,0.55,1.0
+16,País Vasco,2018,Educación primaria,14.925,3.0
+16,País Vasco,2018,Educación superior,38.225,7.0
+16,País Vasco,2018,Estudios primarios incompletos,1.775,2.0
+16,País Vasco,2018,Primera etapa de Educación Secundaria y similar,23.075,
+16,País Vasco,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.55,6.0
+16,País Vasco,2018,"Segunda etapa de educación secundaria, con orientación general",11.875,5.0
+16,País Vasco,2019,Analfabetos,0.45,1.0
+16,País Vasco,2019,Educación primaria,13.7,3.0
+16,País Vasco,2019,Educación superior,39.125,7.0
+16,País Vasco,2019,Estudios primarios incompletos,1.925,2.0
+16,País Vasco,2019,Primera etapa de Educación Secundaria y similar,23.4,
+16,País Vasco,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.475,6.0
+16,País Vasco,2019,"Segunda etapa de educación secundaria, con orientación general",11.875,5.0
+16,País Vasco,2020,Analfabetos,0.55,1.0
+16,País Vasco,2020,Educación primaria,11.65,3.0
+16,País Vasco,2020,Educación superior,41.2,7.0
+16,País Vasco,2020,Estudios primarios incompletos,1.925,2.0
+16,País Vasco,2020,Primera etapa de Educación Secundaria y similar,22.875,
+16,País Vasco,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.7,6.0
+16,País Vasco,2020,"Segunda etapa de educación secundaria, con orientación general",12.125,5.0
+16,País Vasco,2021,Analfabetos,0.5,1.0
+16,País Vasco,2021,Educación primaria,10.725,3.0
+16,País Vasco,2021,Educación superior,42.725,7.0
+16,País Vasco,2021,Estudios primarios incompletos,2.3,2.0
+16,País Vasco,2021,Primera etapa de Educación Secundaria y similar,22.05,
+16,País Vasco,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.75,6.0
+16,País Vasco,2021,"Segunda etapa de educación secundaria, con orientación general",11.95,5.0
+16,País Vasco,2022,Analfabetos,0.35,1.0
+16,País Vasco,2022,Educación primaria,10.65,3.0
+16,País Vasco,2022,Educación superior,43.525,7.0
+16,País Vasco,2022,Estudios primarios incompletos,2.225,2.0
+16,País Vasco,2022,Primera etapa de Educación Secundaria y similar,21.4,
+16,País Vasco,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.45,6.0
+16,País Vasco,2022,"Segunda etapa de educación secundaria, con orientación general",12.375,5.0
+16,País Vasco,2023,Analfabetos,0.9,1.0
+16,País Vasco,2023,Educación primaria,9.625,3.0
+16,País Vasco,2023,Educación superior,44.099999999999994,7.0
+16,País Vasco,2023,Estudios primarios incompletos,2.125,2.0
+16,País Vasco,2023,Primera etapa de Educación Secundaria y similar,20.825,
+16,País Vasco,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.05,6.0
+16,País Vasco,2023,"Segunda etapa de educación secundaria, con orientación general",12.375,5.0
+16,País Vasco,2024,Analfabetos,0.875,1.0
+16,País Vasco,2024,Educación primaria,9.9,3.0
+16,País Vasco,2024,Educación superior,44.3,7.0
+16,País Vasco,2024,Estudios primarios incompletos,1.8250000000000002,2.0
+16,País Vasco,2024,Primera etapa de Educación Secundaria y similar,19.45,
+16,País Vasco,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.675,6.0
+16,País Vasco,2024,"Segunda etapa de educación secundaria, con orientación general",12.9,5.0
+16,País Vasco,2025,Analfabetos,0.8,1.0
+16,País Vasco,2025,Educación primaria,9.8,3.0
+16,País Vasco,2025,Educación superior,45.6,7.0
+16,País Vasco,2025,Estudios primarios incompletos,1.6,2.0
+16,País Vasco,2025,Primera etapa de Educación Secundaria y similar,19.4,
+16,País Vasco,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),10.1,6.0
+16,País Vasco,2025,"Segunda etapa de educación secundaria, con orientación general",12.8,5.0
+17,"Rioja, La",2014,Analfabetos,0.65,1.0
+17,"Rioja, La",2014,Educación primaria,19.575,3.0
+17,"Rioja, La",2014,Educación superior,28.825,7.0
+17,"Rioja, La",2014,Estudios primarios incompletos,3.55,2.0
+17,"Rioja, La",2014,Primera etapa de Educación Secundaria y similar,26.05,
+17,"Rioja, La",2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.525,6.0
+17,"Rioja, La",2014,"Segunda etapa de educación secundaria, con orientación general",12.85,5.0
+17,"Rioja, La",2015,Analfabetos,0.6499999999999999,1.0
+17,"Rioja, La",2015,Educación primaria,18.6,3.0
+17,"Rioja, La",2015,Educación superior,30.375,7.0
+17,"Rioja, La",2015,Estudios primarios incompletos,3.3,2.0
+17,"Rioja, La",2015,Primera etapa de Educación Secundaria y similar,25.725,
+17,"Rioja, La",2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.225000000000001,6.0
+17,"Rioja, La",2015,"Segunda etapa de educación secundaria, con orientación general",13.2,5.0
+17,"Rioja, La",2016,Analfabetos,0.75,1.0
+17,"Rioja, La",2016,Educación primaria,18.925,3.0
+17,"Rioja, La",2016,Educación superior,28.725,7.0
+17,"Rioja, La",2016,Estudios primarios incompletos,1.9,2.0
+17,"Rioja, La",2016,Primera etapa de Educación Secundaria y similar,29.25,
+17,"Rioja, La",2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.4,6.0
+17,"Rioja, La",2016,"Segunda etapa de educación secundaria, con orientación general",12.05,5.0
+17,"Rioja, La",2017,Analfabetos,0.95,1.0
+17,"Rioja, La",2017,Educación primaria,14.025,3.0
+17,"Rioja, La",2017,Educación superior,28.55,7.0
+17,"Rioja, La",2017,Estudios primarios incompletos,2.025,2.0
+17,"Rioja, La",2017,Primera etapa de Educación Secundaria y similar,32.775,
+17,"Rioja, La",2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.65,6.0
+17,"Rioja, La",2017,"Segunda etapa de educación secundaria, con orientación general",13.025,5.0
+17,"Rioja, La",2018,Analfabetos,0.725,1.0
+17,"Rioja, La",2018,Educación primaria,11.35,3.0
+17,"Rioja, La",2018,Educación superior,29.0,7.0
+17,"Rioja, La",2018,Estudios primarios incompletos,2.3499999999999996,2.0
+17,"Rioja, La",2018,Primera etapa de Educación Secundaria y similar,34.725,
+17,"Rioja, La",2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.725,6.0
+17,"Rioja, La",2018,"Segunda etapa de educación secundaria, con orientación general",13.1,5.0
+17,"Rioja, La",2019,Analfabetos,0.525,1.0
+17,"Rioja, La",2019,Educación primaria,10.55,3.0
+17,"Rioja, La",2019,Educación superior,30.125,7.0
+17,"Rioja, La",2019,Estudios primarios incompletos,2.025,2.0
+17,"Rioja, La",2019,Primera etapa de Educación Secundaria y similar,35.025,
+17,"Rioja, La",2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.475,6.0
+17,"Rioja, La",2019,"Segunda etapa de educación secundaria, con orientación general",13.2,5.0
+17,"Rioja, La",2020,Analfabetos,0.5,1.0
+17,"Rioja, La",2020,Educación primaria,9.225,3.0
+17,"Rioja, La",2020,Educación superior,30.675,7.0
+17,"Rioja, La",2020,Estudios primarios incompletos,2.1750000000000003,2.0
+17,"Rioja, La",2020,Primera etapa de Educación Secundaria y similar,35.175,
+17,"Rioja, La",2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.125,6.0
+17,"Rioja, La",2020,"Segunda etapa de educación secundaria, con orientación general",13.15,5.0
+17,"Rioja, La",2021,Analfabetos,1.05,1.0
+17,"Rioja, La",2021,Educación primaria,8.2,3.0
+17,"Rioja, La",2021,Educación superior,31.425,7.0
+17,"Rioja, La",2021,Estudios primarios incompletos,1.775,2.0
+17,"Rioja, La",2021,Primera etapa de Educación Secundaria y similar,34.8,
+17,"Rioja, La",2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.45,6.0
+17,"Rioja, La",2021,"Segunda etapa de educación secundaria, con orientación general",13.25,5.0
+17,"Rioja, La",2022,Analfabetos,1.3,1.0
+17,"Rioja, La",2022,Educación primaria,6.0,3.0
+17,"Rioja, La",2022,Educación superior,32.55,7.0
+17,"Rioja, La",2022,Estudios primarios incompletos,1.325,2.0
+17,"Rioja, La",2022,Primera etapa de Educación Secundaria y similar,35.349999999999994,
+17,"Rioja, La",2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.8,6.0
+17,"Rioja, La",2022,"Segunda etapa de educación secundaria, con orientación general",13.675,5.0
+17,"Rioja, La",2023,Analfabetos,1.025,1.0
+17,"Rioja, La",2023,Educación primaria,5.975,3.0
+17,"Rioja, La",2023,Educación superior,31.45,7.0
+17,"Rioja, La",2023,Estudios primarios incompletos,1.6,2.0
+17,"Rioja, La",2023,Primera etapa de Educación Secundaria y similar,37.4,
+17,"Rioja, La",2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.649999999999999,6.0
+17,"Rioja, La",2023,"Segunda etapa de educación secundaria, con orientación general",12.875,5.0
+17,"Rioja, La",2024,Analfabetos,0.9,1.0
+17,"Rioja, La",2024,Educación primaria,6.575,3.0
+17,"Rioja, La",2024,Educación superior,32.65,7.0
+17,"Rioja, La",2024,Estudios primarios incompletos,1.925,2.0
+17,"Rioja, La",2024,Primera etapa de Educación Secundaria y similar,36.475,
+17,"Rioja, La",2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.025,6.0
+17,"Rioja, La",2024,"Segunda etapa de educación secundaria, con orientación general",12.425,5.0
+17,"Rioja, La",2025,Analfabetos,0.7,1.0
+17,"Rioja, La",2025,Educación primaria,7.0,3.0
+17,"Rioja, La",2025,Educación superior,32.3,7.0
+17,"Rioja, La",2025,Estudios primarios incompletos,1.5,2.0
+17,"Rioja, La",2025,Primera etapa de Educación Secundaria y similar,35.4,
+17,"Rioja, La",2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),9.4,6.0
+17,"Rioja, La",2025,"Segunda etapa de educación secundaria, con orientación general",13.7,5.0
+18,Ceuta,2014,Analfabetos,3.55,1.0
+18,Ceuta,2014,Educación primaria,14.575,3.0
+18,Ceuta,2014,Educación superior,18.1,7.0
+18,Ceuta,2014,Estudios primarios incompletos,8.55,2.0
+18,Ceuta,2014,Primera etapa de Educación Secundaria y similar,33.45,
+18,Ceuta,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.475,6.0
+18,Ceuta,2014,"Segunda etapa de educación secundaria, con orientación general",16.225,5.0
+18,Ceuta,2015,Analfabetos,3.5500000000000003,1.0
+18,Ceuta,2015,Educación primaria,16.6,3.0
+18,Ceuta,2015,Educación superior,22.775,7.0
+18,Ceuta,2015,Estudios primarios incompletos,6.325,2.0
+18,Ceuta,2015,Primera etapa de Educación Secundaria y similar,29.299999999999997,
+18,Ceuta,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.2,6.0
+18,Ceuta,2015,"Segunda etapa de educación secundaria, con orientación general",15.25,5.0
+18,Ceuta,2016,Analfabetos,4.375,1.0
+18,Ceuta,2016,Educación primaria,17.975,3.0
+18,Ceuta,2016,Educación superior,23.175,7.0
+18,Ceuta,2016,Estudios primarios incompletos,4.1,2.0
+18,Ceuta,2016,Primera etapa de Educación Secundaria y similar,30.525,
+18,Ceuta,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),4.95,6.0
+18,Ceuta,2016,"Segunda etapa de educación secundaria, con orientación general",14.9,5.0
+18,Ceuta,2017,Analfabetos,5.375,1.0
+18,Ceuta,2017,Educación primaria,17.325,3.0
+18,Ceuta,2017,Educación superior,21.5,7.0
+18,Ceuta,2017,Estudios primarios incompletos,2.55,2.0
+18,Ceuta,2017,Primera etapa de Educación Secundaria y similar,32.325,
+18,Ceuta,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.75,6.0
+18,Ceuta,2017,"Segunda etapa de educación secundaria, con orientación general",15.2,5.0
+18,Ceuta,2018,Analfabetos,4.7,1.0
+18,Ceuta,2018,Educación primaria,17.125,3.0
+18,Ceuta,2018,Educación superior,21.6,7.0
+18,Ceuta,2018,Estudios primarios incompletos,3.2,2.0
+18,Ceuta,2018,Primera etapa de Educación Secundaria y similar,32.975,
+18,Ceuta,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.825,6.0
+18,Ceuta,2018,"Segunda etapa de educación secundaria, con orientación general",13.575,5.0
+18,Ceuta,2019,Analfabetos,4.475,1.0
+18,Ceuta,2019,Educación primaria,18.0,3.0
+18,Ceuta,2019,Educación superior,19.15,7.0
+18,Ceuta,2019,Estudios primarios incompletos,2.425,2.0
+18,Ceuta,2019,Primera etapa de Educación Secundaria y similar,32.475,
+18,Ceuta,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.5,6.0
+18,Ceuta,2019,"Segunda etapa de educación secundaria, con orientación general",17.0,5.0
+18,Ceuta,2020,Analfabetos,3.15,1.0
+18,Ceuta,2020,Educación primaria,17.55,3.0
+18,Ceuta,2020,Educación superior,21.6,7.0
+18,Ceuta,2020,Estudios primarios incompletos,2.05,2.0
+18,Ceuta,2020,Primera etapa de Educación Secundaria y similar,32.15,
+18,Ceuta,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.675,6.0
+18,Ceuta,2020,"Segunda etapa de educación secundaria, con orientación general",16.9,5.0
+18,Ceuta,2021,Analfabetos,2.15,1.0
+18,Ceuta,2021,Educación primaria,17.45,3.0
+18,Ceuta,2021,Educación superior,21.625,7.0
+18,Ceuta,2021,Estudios primarios incompletos,1.125,2.0
+18,Ceuta,2021,Primera etapa de Educación Secundaria y similar,31.325,
+18,Ceuta,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.65,6.0
+18,Ceuta,2021,"Segunda etapa de educación secundaria, con orientación general",19.7,5.0
+18,Ceuta,2022,Analfabetos,3.825,1.0
+18,Ceuta,2022,Educación primaria,21.15,3.0
+18,Ceuta,2022,Educación superior,18.5,7.0
+18,Ceuta,2022,Estudios primarios incompletos,1.175,2.0
+18,Ceuta,2022,Primera etapa de Educación Secundaria y similar,33.75,
+18,Ceuta,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.025,6.0
+18,Ceuta,2022,"Segunda etapa de educación secundaria, con orientación general",15.55,5.0
+18,Ceuta,2023,Analfabetos,4.4,1.0
+18,Ceuta,2023,Educación primaria,19.025,3.0
+18,Ceuta,2023,Educación superior,18.35,7.0
+18,Ceuta,2023,Estudios primarios incompletos,1.7,2.0
+18,Ceuta,2023,Primera etapa de Educación Secundaria y similar,36.625,
+18,Ceuta,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.55,6.0
+18,Ceuta,2023,"Segunda etapa de educación secundaria, con orientación general",11.3,5.0
+18,Ceuta,2024,Analfabetos,3.275,1.0
+18,Ceuta,2024,Educación primaria,14.075,3.0
+18,Ceuta,2024,Educación superior,29.55,7.0
+18,Ceuta,2024,Estudios primarios incompletos,1.7,2.0
+18,Ceuta,2024,Primera etapa de Educación Secundaria y similar,29.4,
+18,Ceuta,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.9,6.0
+18,Ceuta,2024,"Segunda etapa de educación secundaria, con orientación general",15.1,5.0
+18,Ceuta,2025,Analfabetos,4.0,1.0
+18,Ceuta,2025,Educación primaria,16.0,3.0
+18,Ceuta,2025,Educación superior,30.1,7.0
+18,Ceuta,2025,Estudios primarios incompletos,1.0,2.0
+18,Ceuta,2025,Primera etapa de Educación Secundaria y similar,28.0,
+18,Ceuta,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),4.8,6.0
+18,Ceuta,2025,"Segunda etapa de educación secundaria, con orientación general",16.1,5.0
+19,Melilla,2014,Analfabetos,2.9250000000000003,1.0
+19,Melilla,2014,Educación primaria,13.025,3.0
+19,Melilla,2014,Educación superior,23.375,7.0
+19,Melilla,2014,Estudios primarios incompletos,12.5,2.0
+19,Melilla,2014,Primera etapa de Educación Secundaria y similar,22.275,
+19,Melilla,2014,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.875,6.0
+19,Melilla,2014,"Segunda etapa de educación secundaria, con orientación general",17.05,5.0
+19,Melilla,2015,Analfabetos,4.975,1.0
+19,Melilla,2015,Educación primaria,15.375,3.0
+19,Melilla,2015,Educación superior,22.45,7.0
+19,Melilla,2015,Estudios primarios incompletos,11.5,2.0
+19,Melilla,2015,Primera etapa de Educación Secundaria y similar,24.675,
+19,Melilla,2015,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.95,6.0
+19,Melilla,2015,"Segunda etapa de educación secundaria, con orientación general",15.1,5.0
+19,Melilla,2016,Analfabetos,4.625,1.0
+19,Melilla,2016,Educación primaria,15.85,3.0
+19,Melilla,2016,Educación superior,22.5,7.0
+19,Melilla,2016,Estudios primarios incompletos,7.975,2.0
+19,Melilla,2016,Primera etapa de Educación Secundaria y similar,26.075,
+19,Melilla,2016,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.4,6.0
+19,Melilla,2016,"Segunda etapa de educación secundaria, con orientación general",16.575,5.0
+19,Melilla,2017,Analfabetos,4.35,1.0
+19,Melilla,2017,Educación primaria,14.125,3.0
+19,Melilla,2017,Educación superior,24.225,7.0
+19,Melilla,2017,Estudios primarios incompletos,7.8,2.0
+19,Melilla,2017,Primera etapa de Educación Secundaria y similar,24.35,
+19,Melilla,2017,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.4,6.0
+19,Melilla,2017,"Segunda etapa de educación secundaria, con orientación general",19.725,5.0
+19,Melilla,2018,Analfabetos,4.125,1.0
+19,Melilla,2018,Educación primaria,14.875,3.0
+19,Melilla,2018,Educación superior,25.45,7.0
+19,Melilla,2018,Estudios primarios incompletos,5.975,2.0
+19,Melilla,2018,Primera etapa de Educación Secundaria y similar,27.1,
+19,Melilla,2018,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.175,6.0
+19,Melilla,2018,"Segunda etapa de educación secundaria, con orientación general",16.35,5.0
+19,Melilla,2019,Analfabetos,5.3,1.0
+19,Melilla,2019,Educación primaria,15.85,3.0
+19,Melilla,2019,Educación superior,24.625,7.0
+19,Melilla,2019,Estudios primarios incompletos,6.45,2.0
+19,Melilla,2019,Primera etapa de Educación Secundaria y similar,26.200000000000003,
+19,Melilla,2019,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.8500000000000005,6.0
+19,Melilla,2019,"Segunda etapa de educación secundaria, con orientación general",13.775,5.0
+19,Melilla,2020,Analfabetos,4.225,1.0
+19,Melilla,2020,Educación primaria,15.725000000000001,3.0
+19,Melilla,2020,Educación superior,28.675,7.0
+19,Melilla,2020,Estudios primarios incompletos,4.0,2.0
+19,Melilla,2020,Primera etapa de Educación Secundaria y similar,22.675,
+19,Melilla,2020,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.925000000000001,6.0
+19,Melilla,2020,"Segunda etapa de educación secundaria, con orientación general",16.825,5.0
+19,Melilla,2021,Analfabetos,2.9,1.0
+19,Melilla,2021,Educación primaria,13.8,3.0
+19,Melilla,2021,Educación superior,29.475,7.0
+19,Melilla,2021,Estudios primarios incompletos,6.525,2.0
+19,Melilla,2021,Primera etapa de Educación Secundaria y similar,24.325,
+19,Melilla,2021,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),5.775,6.0
+19,Melilla,2021,"Segunda etapa de educación secundaria, con orientación general",17.224999999999998,5.0
+19,Melilla,2022,Analfabetos,3.4,1.0
+19,Melilla,2022,Educación primaria,13.275,3.0
+19,Melilla,2022,Educación superior,28.325,7.0
+19,Melilla,2022,Estudios primarios incompletos,8.1,2.0
+19,Melilla,2022,Primera etapa de Educación Secundaria y similar,23.5,
+19,Melilla,2022,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.3,6.0
+19,Melilla,2022,"Segunda etapa de educación secundaria, con orientación general",16.125,5.0
+19,Melilla,2023,Analfabetos,4.525,1.0
+19,Melilla,2023,Educación primaria,14.600000000000001,3.0
+19,Melilla,2023,Educación superior,27.375,7.0
+19,Melilla,2023,Estudios primarios incompletos,4.65,2.0
+19,Melilla,2023,Primera etapa de Educación Secundaria y similar,24.0,
+19,Melilla,2023,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),8.8,6.0
+19,Melilla,2023,"Segunda etapa de educación secundaria, con orientación general",16.075,5.0
+19,Melilla,2024,Analfabetos,4.575,1.0
+19,Melilla,2024,Educación primaria,16.075,3.0
+19,Melilla,2024,Educación superior,26.55,7.0
+19,Melilla,2024,Estudios primarios incompletos,4.1,2.0
+19,Melilla,2024,Primera etapa de Educación Secundaria y similar,26.974999999999998,
+19,Melilla,2024,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),7.55,6.0
+19,Melilla,2024,"Segunda etapa de educación secundaria, con orientación general",14.225,5.0
+19,Melilla,2025,Analfabetos,4.8,1.0
+19,Melilla,2025,Educación primaria,14.7,3.0
+19,Melilla,2025,Educación superior,25.6,7.0
+19,Melilla,2025,Estudios primarios incompletos,4.0,2.0
+19,Melilla,2025,Primera etapa de Educación Secundaria y similar,30.1,
+19,Melilla,2025,Segunda etapa de educación secundaria con orientación profesional (incluye educación postsecundaria no superior),6.3,6.0
+19,Melilla,2025,"Segunda etapa de educación secundaria, con orientación general",14.4,5.0

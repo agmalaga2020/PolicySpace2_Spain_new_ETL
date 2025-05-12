@@ -1,0 +1,37 @@
+LOG ETL LOAD DATA - 2025-05-07 20:01:19.816306
+
+[tabla_equivalencias] OK: 8132 filas, 6 columnas
+
+[codigos_ccaa_provincias] Cargado: 53 filas, 4 columnas
+Columnas: CODAUTO, Comunidad Autónoma, CPRO, provincia_name
+  CODAUTO Comunidad Autónoma  CPRO provincia_name
+0      01          Andalucía   4.0        Almería
+1      01          Andalucía  11.0          Cádiz
+2      01          Andalucía  14.0        Córdoba
+3      01          Andalucía  18.0        Granada
+4      01          Andalucía  21.0         Huelva
+
+[cifras_poblacion_municipio] OK: 8156 filas, 30 columnas
+
+[df_mortalidad_ccaa_sexo] OK: 26334 filas, 6 columnas
+
+[distribucion_urbana] OK: 162520 filas, 3 columnas
+
+[empresas_municipio_actividad_principal] OK: 105495 filas, 4 columnas
+
+[estimativas_pop] OK: 8156 filas, 29 columnas
+
+[idhm_indice_desarrollo_humano_municipal] OK: 28370 filas, 14 columnas
+
+[indicadores_fecundidad] Provincias en datos:
+['Albacete', 'Alicante/Alacant', 'Almería', 'Araba/Álava', 'Asturias', 'Badajoz', 'Balears, Illes', 'Barcelona', 'Bizkaia', 'Burgos']
+
+[indicadores_fecundidad_municipio_provincias] OK: 104468 filas, 8 columnas
+
+[interest_data_ETL] OK: 304 filas, 7 columnas
+
+[nivel_educativo_comunidades] OK: 1596 filas, 6 columnas
+
+[PIE] OK: 128414 filas, 8 columnas
+
+Carga completa de todas las tablas seleccionadas.

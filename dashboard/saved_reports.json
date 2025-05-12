@@ -1,0 +1,16 @@
+{
+    "test": {
+        "table": "cifras_poblacion_municipio",
+        "filters": {
+            "C\u00f3digo Municipio": [
+                "2.0",
+                "4.0"
+            ]
+        },
+        "chart_config": {
+            "x_axis": "2000",
+            "y_axis": "2001",
+            "chart_type": "Barras"
+        }
+    }
+}

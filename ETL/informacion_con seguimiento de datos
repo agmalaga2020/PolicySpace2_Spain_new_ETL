@@ -1,0 +1,22 @@
+firms_by_APs2010_t1_full.csv	Adapting for 2010 firms' data reading	empresas_municipio_actividad_principal.py	1	1		si	https://colab.research.google.com/drive/1ZN8I7vPFK2lfH0TjMDJBU92vuiHT82cv	empresas_municipio_actividad_principal.csv	SI hay algunas discrepancias	2012-2024
+idhm_2000_2010.csv	Udpated IDHM, from Atlas 2013 Ipea/FJP	idhm_indice_desarrollo_humano_municipal.py	1	1	muy logrado	SI	https://colab.research.google.com/drive/144VhiaGns-VVbtKxnDX9RFD4EIO-GPxu	"idhm_2013_2022.csv
+"	SI - NO MUY CONTENTO	2013-2022
+interest_fixed.csv	FirstFinal	interest_data_etl.py	1	1		SI	https://colab.research.google.com/drive/19UT1FYmWnu_stiA_dWmQVVxBufBas0jH?hl=es	interest_fixed_imputado.csv	SI	2000-2025
+interest_nominal.csv	real, nominal and fixed interest	interest_data_etl.py	1	1		SI	https://colab.research.google.com/drive/19UT1FYmWnu_stiA_dWmQVVxBufBas0jH?hl=es	interest_nominal_imputado.csv	SI	2000-2025
+interest_real.csv	real, nominal and fixed interest	interest_data_etl.py	1	1		SI	https://colab.research.google.com/drive/19UT1FYmWnu_stiA_dWmQVVxBufBas0jH?hl=es	interest_real_imputado.csv	SI	2000-2025
+marriage_age_men.csv	Disabling marriage for now.		0	0	PARECE QUE NO SE USA					
+marriage_age_men_original.csv	Disabling marriage for now.		0	0	PARECE QUE NO SE USA					
+marriage_age_women.csv	Disabling marriage for now.		0	0	PARECE QUE NO SE USA					
+marriage_age_women_original.csv	Disabling marriage for now.		0	0	PARECE QUE NO SE USA					
+names_and_codes_municipalities.csv	Initial commit Data		0	0	areap?					
+num_people_age_gender_AP_2000.csv	update age 0 for pop_men pop_women 2010		0	1	area y municipio nº personas por territorrio-género					
+num_people_age_gender_AP_2010.csv	Adapting for 2010 firms' data reading		0	1	Yo no tengo los datos por áreas ponderada, por lo tanto sobran estos datos si trazamos otra estrategía diferente					
+pop_men_2000.csv	Adapting for 2010 firms' data reading	cifras_poblacion_municipio.py	1	1		NO	https://colab.research.google.com/drive/12KjyIpAj09kFL_QB8PP6PLZKwE2yoxYK#scrollTo=gpfNZBVu8OwH	cifras_municipio_hombres_AÑOX.csv		2003-2022
+pop_men_2010.csv	update age 0 for pop_men pop_women 2010	cifras_poblacion_municipio.py	1	1		NO	https://colab.research.google.com/drive/12KjyIpAj09kFL_QB8PP6PLZKwE2yoxYK#scrollTo=gpfNZBVu8OwH	cifras_municipio_hombres_AÑOX.csv		2003-2022
+pop_women_2010.csv	update age 0 for pop_men pop_women 2010	cifras_poblacion_municipio.py	1	1		NO	https://colab.research.google.com/drive/12KjyIpAj09kFL_QB8PP6PLZKwE2yoxYK#scrollTo=gpfNZBVu8OwH	cifras_municipio_mujeres_AÑOX.csv		2003-2022
+pop_women_2000.csv	Adapting for 2010 firms' data reading	cifras_poblacion_municipio.py	1	1		NO	https://colab.research.google.com/drive/12KjyIpAj09kFL_QB8PP6PLZKwE2yoxYK#scrollTo=gpfNZBVu8OwH	cifras_municipio_mujeres_AÑOX.csv		2003-2022
+prop_urban_2000_2010.csv	Updated urban proportion for 2000, 2010 now	copio data de colab	1	1	calculados desde la población y tamaño y ajustados con NOMENCLATOR	NO	https://colab.research.google.com/drive/1V-Sg1CuK_rsf0g08CiVmg8qCiDsPDXpQ?hl=es	distribucion_urbana_municipios_2003_to_2022.csv	NO ES NECESARIO	1003-2022
+qualification_APs_2000.csv	Simplified qualification	nivel_educativo_comunidades.py	1	1	discreprancias en code?	si	https://colab.research.google.com/drive/13hN8-q5xF7479mjD5LDQS4G4FmP46aTJ#scrollTo=PtRrTP_l8GUV	nivel_educativo_comunidades_AÑOX		2014-2025
+qualification_APs_2010.csv	qualification 2010	nivel_educativo_comunidades.py	1	1	discreprancias en code?	si	https://colab.research.google.com/drive/13hN8-q5xF7479mjD5LDQS4G4FmP46aTJ#scrollTo=PtRrTP_l8GUV	nivel_educativo_comunidades_AÑOX		2014-2025
+single_aps_2000.csv	simplified loading single_aps		0	1						
+single_aps_2010.csv	single_aps_2010		0	1						

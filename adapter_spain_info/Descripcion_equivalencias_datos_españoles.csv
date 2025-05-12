@@ -1,0 +1,26 @@
+Nombre,Archivo equivalencia española,Rango de fechas,Significado,problema_simulacion_2014
+fertility,"tasas_fertilidad_provincias, tasas_fertilidad_comunidades",1975-2023,Tasas de fecundidad por provincia y comunidad autónoma en España.,Corregido: Carga datos de fecundidad por provincia para el año de simulación (2014) o el último disponible.
+fpm,pie_final_final.csv,2007-2022,Datos sobre las transferencias fiscales municipales (FPM) en un periodo determinado.,Corregido: 'mun_code' ahora se usa correctamente. Para municipios '01001', '01008' en 2014, no hay advertencia de PIE cero (datos procesables).
+mortality,mortality_SEXO_COMUNIDAD_CODE.csv,2010-2020,Datos de mortalidad por sexo y comunidad autónoma.,Corregido: Carga datos de mortalidad por CCAA/sexo para el año de simulación (2014) o el último disponible.
+ACPs_BR,,N/A,Datos geográficos de las áreas censales (ACPs) de Brasil.,INFO: No aplica para España.
+ACPs_MUN_CODES,,N/A,Códigos de los municipios de Brasil con información geográfica.,INFO: No aplica para España.
+RM_BR_STATES,,N/A,"Datos geográficos de los estados de Brasil, relacionados con áreas metropolitanas.",INFO: No aplica para España.
+STATES_ID_NUM,,N/A,Identificadores numéricos para los estados brasileños.,INFO: No aplica para España.
+average_num_members_families_2010,tamaño_medio_hogares_ccaa_AÑOX,2021-2025 (datos base),Promedio de miembros por hogar en diferentes comunidades autónomas.,Corregido: Se utiliza modelo predictivo (regresión lineal) basado en datos 2021-2025 para estimar valores por CCAA para 2014. Integrado en la simulación, con fallback al parámetro global si es necesario.
+estimativas_pop.csv,cifras_poblacion_municipio.csv,1996-2024,Estimaciones de población por municipio y año.,INFO: Usado para estimaciones de inmigración desde 'input/estimativas_pop.csv'. El archivo ETL principal de población es otro.
+firms_by_APs2000_t0_full,empresas_municipio_actividad_principal.csv,2012-2024,Datos de empresas por actividad principal en municipios.,Corregido: FirmData usa t0=2014 y t1=2019 para calcular crecimiento. Carga desde ETL.
+firms_by_APs2000_t1_full,empresas_municipio_actividad_principal.csv,2012-2024,Datos de empresas por actividad principal en municipios.,Corregido: FirmData usa t0=2014 y t1=2019 para calcular crecimiento. Carga desde ETL.
+idhm_2000_2010.csv,IRPFmunicipios_final_IDHM.csv,"(IRPF) 2013-2021",Índice de desarrollo humano municipal.,INFO: IDHM usa datos de 2014 (si disponible en archivo ETL) o fallback.
+interest_fixed.csv,interest_fixed_imputado.csv,2000-2025,Tasas de interés fijas imputadas.,Corregido: Carga desde ETL.
+interest_nominal.csv,interest_nominal_imputado.csv,2000-2025,Tasas de interés nominales imputadas.,Corregido: Carga desde ETL.
+interest_real.csv,interest_real_imputado.csv,2000-2025,Tasas de interés reales imputadas.,Corregido: Carga desde ETL.
+marriage_age_men.csv,,N/A,Edad promedio al matrimonio para hombres.,INFO: Lógica de matrimonio deshabilitada en la simulación.
+marriage_age_women.csv,,N/A,Edad promedio al matrimonio para mujeres.,INFO: Lógica de matrimonio deshabilitada en la simulación.
+names_and_codes_municipalities.csv,df_equivalencias_municipio_CORRECTO.csv,N/A,Códigos y nombres de los municipios españoles.,INFO: Usado internamente para mapeos.
+num_people_age_gender_AP_2000.csv,,N/A,"Número de personas por edad y género en Áreas de Ponderación (Brasil).",INFO: Lógica AP omitida/no aplica directamente para España. Carga intentada desde 'input/' como fallback si es necesario por código antiguo.
+pop_men_2000.csv,cifras_municipio_hombres_AÑOX.csv,2003-2022,Datos de población masculina por municipio.,Corregido: Carga desde ETL (archivos por sexo/año, formato largo con edad simple) para 2014. Archivos específicos para 2014 cargados.
+pop_women_2000.csv,cifras_municipio_mujeres_AÑOX.csv,2003-2022,Datos de población femenina por municipio.,Corregido: Carga desde ETL (archivos por sexo/año, formato largo con edad simple) para 2014. Archivos específicos para 2014 cargados.
+prop_urban_2000_2010.csv,distribucion_urbana_municipios_2003_to_2022.csv,2003-2022,Distribución urbana por municipio entre 2003 y 2022.,INFO: Datos para 2014 cargados correctamente desde archivo multianual ETL.
+qualification_APs_2000.csv,nivel_educativo_comunidades_AÑOX.csv,2014-2025,Datos sobre el nivel educativo en comunidades autónomas.,Corregido: Carga datos de cualificación desde archivo anual por CCAA (datos de 2014 cargados directamente para simulación de 2014).
+qualification_APs_2010.csv,nivel_educativo_comunidades_AÑOX.csv,2014-2025,Datos sobre el nivel educativo en comunidades autónomas.,Corregido: Carga datos de cualificación desde archivo anual por CCAA (datos de 2014 cargados directamente para simulación de 2014).
+single_aps_2000.csv,,N/A,Datos sobre hogares unipersonales en diferentes áreas (Brasil).,INFO: No aplica para España.

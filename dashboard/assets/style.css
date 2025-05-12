@@ -1,0 +1,58 @@
+/* Estilos CSS personalizados para el Dashboard Streamlit */
+
+/* Se elimina el fondo fijo de la barra lateral para compatibilidad con tema oscuro/claro */
+/* [data-testid="stSidebar"] {
+    background-color: #f0f2f6; 
+} */
+
+/* Estilo para los encabezados H1 (Título principal) */
+h1 {
+    color: #1E88E5; /* Un azul */
+    /* text-align: center; */ /* Descomentar para centrar */
+}
+
+/* Estilo para los encabezados H2 (Secciones) */
+h2 {
+    color: #42A5F5; /* Un azul más claro */
+    border-bottom: 2px solid #42A5F5;
+    padding-bottom: 5px;
+}
+
+/* Estilo para los encabezados H3 (Subsecciones) */
+h3 {
+    color: #64B5F6; /* Aún más claro */
+}
+
+/* Mejorar legibilidad de los dataframes */
+.stDataFrame {
+    font-size: 0.9rem;
+}
+
+/* Estilo para botones de descarga */
+div[data-testid="stDownloadButton"] > button {
+    background-color: #4CAF50; /* Verde */
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 15px;
+    margin-right: 10px; /* Espacio entre botones */
+}
+
+div[data-testid="stDownloadButton"] > button:hover {
+    background-color: #45a049; /* Verde más oscuro al pasar el ratón */
+}
+
+/* Estilo para botón de guardar informe */
+div[data-testid="stButton"] > button:contains("Guardar Configuración Actual") {
+     background-color: #FF9800; /* Naranja */
+     color: white;
+     border-radius: 5px;
+     border: none;
+     padding: 8px 15px;
+}
+
+div[data-testid="stButton"] > button:contains("Guardar Configuración Actual"):hover {
+     background-color: #fb8c00; /* Naranja más oscuro */
+}
+
+/* Añadir más estilos según sea necesario */

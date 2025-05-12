@@ -1,0 +1,54 @@
+CODAUTO,Comunidad Autónoma,CPRO,Provincia
+01,Andalucía,4.0,Almería
+01,Andalucía,11.0,Cádiz
+01,Andalucía,14.0,Córdoba
+01,Andalucía,18.0,Granada
+01,Andalucía,21.0,Huelva
+01,Andalucía,23.0,Jaén
+01,Andalucía,29.0,Málaga
+01,Andalucía,41.0,Sevilla
+02,Aragón,22.0,Huesca
+02,Aragón,44.0,Teruel
+02,Aragón,50.0,Zaragoza
+03,"Asturias, Principado de",33.0,Asturias
+04,"Balears, Illes",7.0,"Balears, Illes"
+05,Canarias,35.0,"Palmas, Las"
+05,Canarias,38.0,Santa Cruz de Tenerife
+06,Cantabria,39.0,Cantabria
+07,Castilla y León,5.0,Ávila
+07,Castilla y León,9.0,Burgos
+07,Castilla y León,24.0,León
+07,Castilla y León,34.0,Palencia
+07,Castilla y León,37.0,Salamanca
+07,Castilla y León,40.0,Segovia
+07,Castilla y León,42.0,Soria
+07,Castilla y León,47.0,Valladolid
+07,Castilla y León,49.0,Zamora
+08,Castilla-La Mancha,2.0,Albacete
+08,Castilla-La Mancha,13.0,Ciudad Real
+08,Castilla-La Mancha,16.0,Cuenca
+08,Castilla-La Mancha,19.0,Guadalajara
+08,Castilla-La Mancha,45.0,Toledo
+09,Cataluña,8.0,Barcelona
+09,Cataluña,17.0,Girona
+09,Cataluña,25.0,Lleida
+09,Cataluña,43.0,Tarragona
+10,Comunitat Valenciana,3.0,Alicante/Alacant
+10,Comunitat Valenciana,12.0,Castellón/Castelló
+10,Comunitat Valenciana,46.0,Valencia/València
+11,Extremadura,6.0,Badajoz
+11,Extremadura,10.0,Cáceres
+12,Galicia,15.0,"Coruña, A"
+12,Galicia,27.0,Lugo
+12,Galicia,32.0,Ourense
+12,Galicia,36.0,Pontevedra
+13,"Madrid, Comunidad de",28.0,Madrid
+14,"Murcia, Región de",30.0,Murcia
+15,"Navarra, Comunidad Foral de",31.0,Navarra
+16,País Vasco,1.0,Araba/Álava
+16,País Vasco,48.0,Bizkaia
+16,País Vasco,20.0,Gipuzkoa
+17,"Rioja, La",26.0,"Rioja, La"
+Ciudades Autónomas:,Ciudades Autónomas:,,
+18,Ceuta,51.0,Ceuta
+19,Melilla,52.0,Melilla
