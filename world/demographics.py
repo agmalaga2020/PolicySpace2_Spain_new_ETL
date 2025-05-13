@@ -8,15 +8,57 @@ from .population import marriage_data
 def check_demographics(sim, birthdays, year, mortality_men, mortality_women, fertility):
     """Agent life cycles: update agent ages, deaths, and births"""
     births, deaths = [], 0
-    for age, agents in birthdays.items():
-        age = age + 1
-        prob_mort_m = mortality_men.get_group(age)[str(year)].iloc[0]
-        prob_mort_f = mortality_women.get_group(age)[str(year)].iloc[0]
-        if 14 < age < 50:
-            p_pregnancy = fertility.get_group(age)[str(year)].iloc[0]
+    for age_from_birthday, agents in birthdays.items():
+        current_agent_age = age_from_birthday + 1
+
+        # Get mortality probability for men
+        if current_agent_age in mortality_men.groups:
+            prob_mort_m = mortality_men.get_group(current_agent_age)[str(year)].iloc[0]
+        else:
+            available_ages_m = [a for a in mortality_men.groups.keys() if a <= current_agent_age]
+            if available_ages_m:
+                closest_age_m = max(available_ages_m)
+                prob_mort_m = mortality_men.get_group(closest_age_m)[str(year)].iloc[0]
+            else:
+                # Fallback: use the smallest available age group if current_agent_age is smaller than all
+                closest_age_m = min(mortality_men.groups.keys())
+                prob_mort_m = mortality_men.get_group(closest_age_m)[str(year)].iloc[0]
+
+        # Get mortality probability for women
+        if current_agent_age in mortality_women.groups:
+            prob_mort_f = mortality_women.get_group(current_agent_age)[str(year)].iloc[0]
+        else:
+            available_ages_f = [a for a in mortality_women.groups.keys() if a <= current_agent_age]
+            if available_ages_f:
+                closest_age_f = max(available_ages_f)
+                prob_mort_f = mortality_women.get_group(closest_age_f)[str(year)].iloc[0]
+            else:
+                # Fallback: use the smallest available age group
+                closest_age_f = min(mortality_women.groups.keys())
+                prob_mort_f = mortality_women.get_group(closest_age_f)[str(year)].iloc[0]
+        
+        p_pregnancy = 0 # Initialize p_pregnancy
+        if 14 < current_agent_age < 50:
+            # Get fertility probability
+            if current_agent_age in fertility.groups:
+                p_pregnancy = fertility.get_group(current_agent_age)[str(year)].iloc[0]
+            else:
+                available_ages_fert = [a for a in fertility.groups.keys() if a <= current_agent_age]
+                if available_ages_fert:
+                    closest_age_fert = max(available_ages_fert)
+                    p_pregnancy = fertility.get_group(closest_age_fert)[str(year)].iloc[0]
+                else:
+                    # Fallback for fertility (e.g. if age is below the first group)
+                    # Depending on data, might use min available or assume 0 if below range
+                    closest_age_fert = min(fertility.groups.keys())
+                    if current_agent_age < closest_age_fert: # If agent is younger than the first fertility age group
+                        p_pregnancy = 0 # Or handle as per specific model logic for very young ages
+                    else: # Should not happen if available_ages_fert was empty and current_agent_age >= min key
+                        p_pregnancy = fertility.get_group(closest_age_fert)[str(year)].iloc[0]
+
 
         for agent in agents:
-            agent.age += 1
+            agent.age = current_agent_age # Update agent's age to the new age
             agent.p_marriage = marriage_data.p_marriage(agent)
             if agent.gender == 'Male':
                 if sim.seed.random() < prob_mort_m:
@@ -133,4 +175,3 @@ def die(sim, agent):
 
     a_id = agent.id
     del sim.agents[a_id]
-

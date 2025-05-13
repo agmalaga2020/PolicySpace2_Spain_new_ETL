@@ -8,6 +8,8 @@ import sys
 from collections import defaultdict
 import logging # Added logging
 
+logging.basicConfig(level=logging.DEBUG, format='%(levelname)s:%(name)s:%(message)s')
+
 # Define module-level logger
 script_logger = logging.getLogger(__name__)
 

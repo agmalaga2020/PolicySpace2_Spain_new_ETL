@@ -403,48 +403,48 @@ class Generator:
 
 
         try:
-            # Triangula el polígono y elige un triángulo al azar, ponderado por área
+            logger.debug(f"Antes de triangulate para region {region.id} (type={geom_type_used}).")
             tris = triangulate(target_geom)
-            if not tris: # Handle cases where triangulation returns empty list (e.g. for lines or points)
+            logger.debug(f"Después de triangulate: {len(tris)} triángulos generados para region {region.id} (type={geom_type_used}).")
+            if not tris:
                 logger.warning(f"Triangulation of target_geom for region {region.id} (type={geom_type_used}) resulted in no triangles. Area: {target_geom.area:.6f}. Geom type: {target_geom.geom_type}. Returning centroid.")
                 return target_geom.centroid
 
             areas = [t.area for t in tris]
-            
-            # Filter out zero-area triangles if any, can happen with complex geometries
+            logger.debug(f"Áreas de triángulos calculadas para region {region.id}: {areas[:10]}... (total {len(areas)})")
+
             valid_tris_areas = [(t, a) for t, a in zip(tris, areas) if a > 0]
+            logger.debug(f"Triángulos con área positiva: {len(valid_tris_areas)} para region {region.id}.")
+
             if not valid_tris_areas:
                 logger.warning(f"No triangles with positive area after triangulation for region {region.id} (type={geom_type_used}). Returning centroid.")
                 return target_geom.centroid
-            
+
             tris, areas = zip(*valid_tris_areas)
-            
             cum_areas = np.cumsum(areas)
-            
-            if cum_areas[-1] == 0: # All triangles had zero area
-                 logger.warning(f"Total area of triangulated parts is zero for region {region.id} (type={geom_type_used}). Returning centroid.")
-                 return target_geom.centroid
+            logger.debug(f"Cumulative areas: {cum_areas[:10]}... (total {len(cum_areas)}) para region {region.id}.")
+
+            if cum_areas[-1] == 0:
+                logger.warning(f"Total area of triangulated parts is zero for region {region.id} (type={geom_type_used}). Returning centroid.")
+                return target_geom.centroid
 
             r = self.seed.random() * cum_areas[-1]
-            
-            for t, ca in zip(tris, cum_areas):
+            logger.debug(f"Valor aleatorio para muestreo: {r} de {cum_areas[-1]} para region {region.id}.")
+
+            for idx, (t, ca) in enumerate(zip(tris, cum_areas)):
                 if r <= ca:
-                    # genera un punto dentro del triángulo t
-                    # Ensure t.exterior.coords has at least 3 points
+                    logger.debug(f"Seleccionado triángulo {idx} para region {region.id}.")
                     if len(t.exterior.coords) < 3:
                         logger.warning(f"Triangle has less than 3 coordinates for region {region.id}. Coords: {list(t.exterior.coords)}. Skipping this triangle.")
-                        continue # Should ideally not happen with valid triangles from shapely.ops.triangulate
-
+                        continue
                     a, b, c = t.exterior.coords[:3]
                     r1, r2 = self.seed.random(), self.seed.random()
-                    # conversión a coordenadas barycentric
                     sqrt_r1 = math.sqrt(r1)
                     x = (1 - sqrt_r1) * a[0] + sqrt_r1 * (1 - r2) * b[0] + sqrt_r1 * r2 * c[0]
                     y = (1 - sqrt_r1) * a[1] + sqrt_r1 * (1 - r2) * b[1] + sqrt_r1 * r2 * c[1]
-                    # logger.debug(f"  Generated point ({x:.4f}, {y:.4f}) in triangle for region {region.id} (type={geom_type_used}).")
+                    logger.debug(f"Punto generado en triángulo {idx} para region {region.id}: ({x}, {y})")
                     return shapely.geometry.Point(x, y)
-            
-            # Fallback within the new method if loop completes without returning (should be rare if cum_areas[-1] > 0)
+
             logger.warning(f"Triangulation sampling loop completed without returning a point for region {region.id} (type={geom_type_used}). This is unexpected. Returning centroid.")
             return target_geom.centroid
 

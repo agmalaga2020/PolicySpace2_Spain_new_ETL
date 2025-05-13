@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Animación Flujo de Simulación</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    :root{
+      --blue:#3498db;
+      --blue-light:#AED6F1;
+      --blue-dark:#2c3e50;
+      --purple:#AF7AC5;
+      --green:#117A65;
+      --orange:#B9770E;
+      --red:#e74c3c;
+    }
+    body{font-family:Helvetica,Arial,sans-serif;background:#f8f9fa;margin:0;}
+    #controls{padding:12px 16px;background:#fff;box-shadow:0 2px 4px rgba(0,0,0,.08);display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:10;}
+    button{border:none;background:var(--blue);color:#fff;padding:6px 12px;border-radius:6px;font-size:14px;cursor:pointer;transition:background .2s;}
+    button:hover{background:#2e86c1;}
+    input[type="range"]{cursor:pointer;}
+    svg{background:#ffffff;border-top:1px solid #e4e6e8;width:100%;height:calc(100vh - 66px);} /* 66 = controls height */
+    .link{stroke:var(--blue-dark);stroke-opacity:.4;stroke-width:1.4px;marker-end:url(#arrow);}    
+    .node rect{fill:var(--blue-light);stroke:var(--blue-dark);stroke-width:1.5px;rx:8;ry:8;filter:url(#shadow);}
+    .node text{fill:#000;font-size:11px;pointer-events:none;}
+    .node.active rect{fill:var(--red);}  
+  </style>
+</head>
+<body>
+  <div id="controls">
+    <button id="play">Play</button>
+    <button id="pause">Pause</button>
+    Velocidad&nbsp;<input type="range" id="speed" min="100" max="2000" value="800">&nbsp;ms
+  </div>
+  <svg></svg>
+  <script>
+    const svg=d3.select('svg');
+
+    /*============  defs  ============*/
+    const defs=svg.append('defs');
+    defs.append('marker')
+        .attr('id','arrow')
+        .attr('markerWidth',6)
+        .attr('markerHeight',6)
+        .attr('refX',6)
+        .attr('refY',3)
+        .attr('orient','auto')
+        .append('path')
+        .attr('d','M0,0L6,3L0,6Z')
+        .attr('fill','#2c3e50');
+
+    // drop‑shadow
+    const filter=defs.append('filter').attr('id','shadow').attr('height','130%');
+    filter.append('feDropShadow')
+          .attr('dx','0')
+          .attr('dy','2')
+          .attr('stdDeviation','2')
+          .attr('flood-color','#000')
+          .attr('flood-opacity','0.15');
+
+    /*============  nodes & links data  ============*/
+    const nodes=[
+      {id:'main',label:'main.py',x:480,y:40},
+      {id:'load_conf',label:'Load Configuration',x:260,y:140},
+      {id:'params',label:'conf/default/params.py',x:140,y:260},
+      {id:'run_conf',label:'conf/run.py',x:360,y:260},
+      {id:'init_sim',label:'Initialize Simulation',x:480,y:140},
+      {id:'sim_py',label:'simulation.py',x:480,y:260},
+      {id:'load_geo',label:'Load Geography',x:260,y:360},
+      {id:'etl_geo',label:'ETL/GeoRef_Spain/...',x:260,y:470},
+      {id:'load_pop',label:'Load Population',x:480,y:360},
+      {id:'world_pop',label:'world/population.py',x:480,y:470},
+      {id:'etl_pop1',label:'ETL/cifras_poblacion_municipio/...',x:310,y:580},
+      {id:'etl_pop2',label:'ETL/estimativas_pop/...',x:650,y:580},
+      {id:'init_agents',label:'Initialize Agents',x:700,y:360},
+      {id:'world_gen',label:'world/generator.py',x:700,y:470},
+      {id:'run_sim',label:'Run Simulation',x:480,y:310},
+      {id:'sim_loop',label:'simulation.py loop',x:480,y:540},
+      {id:'agents_dir',label:'agents/',x:340,y:650},
+      {id:'markets_dir',label:'markets/',x:480,y:650},
+      {id:'world_dir',label:'world/',x:620,y:650},
+      {id:'save_out',label:'Save Output',x:860,y:310},
+      {id:'output_dir',label:'output/',x:860,y:470},
+      {id:'run_multi',label:'Run Multiple Simulations',x:860,y:140}
+    ];
+
+    const links=[
+      ['main','load_conf'],['main','init_sim'],['main','run_multi'],
+      ['load_conf','params'],['load_conf','run_conf'],
+      ['init_sim','sim_py'],['sim_py','load_geo'],['sim_py','load_pop'],['sim_py','init_agents'],['sim_py','run_sim'],
+      ['load_geo','etl_geo'],['load_pop','world_pop'],['world_pop','etl_pop1'],['world_pop','etl_pop2'],
+      ['init_agents','world_gen'],
+      ['run_sim','sim_loop'],['sim_loop','agents_dir'],['sim_loop','markets_dir'],['sim_loop','world_dir'],
+      ['run_sim','save_out'],['save_out','output_dir'],
+      ['run_multi','main']
+    ];
+
+    /*============  draw links  ============*/
+    svg.selectAll('.link')
+       .data(links)
+       .enter()
+       .append('line')
+       .attr('class','link')
+       .attr('x1',d=>nodes.find(n=>n.id===d[0]).x)
+       .attr('y1',d=>nodes.find(n=>n.id===d[0]).y)
+       .attr('x2',d=>nodes.find(n=>n.id===d[1]).x)
+       .attr('y2',d=>nodes.find(n=>n.id===d[1]).y);
+
+    /*============  draw nodes  ============*/
+    const gNode=svg.selectAll('.node')
+      .data(nodes)
+      .enter()
+      .append('g')
+      .attr('class','node')
+      .attr('id',d=>d.id)
+      .attr('transform',d=>`translate(${d.x},${d.y})`);
+
+    // background rectangles sized by text length
+    gNode.append('rect')
+      .attr('x',d=>-getWidth(d.label)/2)
+      .attr('y',-18)
+      .attr('width',d=>getWidth(d.label))
+      .attr('height',36);
+
+    gNode.append('text')
+      .attr('text-anchor','middle')
+      .attr('dy',4)
+      .text(d=>d.label);
+
+    function getWidth(label){return Math.max(90,label.length*7+20);} // min width 90px
+
+    /*============  animation  ============*/
+    const steps=[
+      'main','load_conf','params','run_conf',
+      'init_sim','sim_py','load_geo','etl_geo',
+      'load_pop','world_pop','etl_pop1','etl_pop2',
+      'init_agents','world_gen','run_sim',
+      'sim_loop','agents_dir','markets_dir','world_dir',
+      'save_out','output_dir','run_multi'
+    ];
+
+    let index=0;let intervalId;let speed=parseInt(document.getElementById('speed').value);
+
+    function highlight(){
+      svg.selectAll('.node').classed('active',false);
+      svg.select(`#${steps[index]}`).classed('active',true);
+      index=(index+1)%steps.length;
+    }
+
+    document.getElementById('play').addEventListener('click',()=>{
+      clearInterval(intervalId);
+      intervalId=setInterval(highlight,speed);
+    });
+    document.getElementById('pause').addEventListener('click',()=>clearInterval(intervalId));
+    document.getElementById('speed').addEventListener('input',e=>{
+      speed=parseInt(e.target.value);
+      if(intervalId){clearInterval(intervalId);intervalId=setInterval(highlight,speed);}  
+    });
+  </script>
+</body>
+</html>
